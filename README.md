@@ -1,5 +1,5 @@
 # Conv-TASNET:
-## Model with SDR = 16.7 (15.0 in the paper)
+## Model with SDR = 16.7 (15.0 in the paper) on WJS0-2speaker dataset
 You can find the oringnal paper [here](https://arxiv.org/abs/1809.07454). The testing results are shown as follows: ![SDR-11.7](SDR-16.7.png)
 ### Function
 - dataset.py: read the data into the model 
