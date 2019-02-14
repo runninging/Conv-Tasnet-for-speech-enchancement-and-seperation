@@ -1,0 +1,47 @@
+# config for training
+trainer:
+  checkpoint: "models"
+  optimizer: "adam"
+  lr: 1e-3
+  momentum: 0.9    #you don't need to change the value,it is not used
+  weight_decay: 0  #you don't need to change the value,it is not used
+  num_epoches: 100
+  clip_norm: 3   #you don't need to change the value,it is not used
+
+#You need change the model_path and epoch_done in temp when retrain the model
+temp:
+  model_path: '/data00/home/labspeech_intern/wangkang/Tasnet/code/Tasnet_13.6/models/TasNET_79_trainloss_-2.7356e+01_valloss_-2.4571e+01.pkl'
+  epoch_done: 0
+
+#parameters for generating data
+data_generator:
+  speech_dir: '/data00/home/labspeech_intern/wangkang/Tasnet/data/min/'
+  train_save_path: '/data00/home/labspeech_intern/wangkang/Tasnet/data/separate_13.6/train_input_4s'
+  dev_save_path: '/data00/home/labspeech_intern/wangkang/Tasnet/data/separate_13.6/dev_input_4s'
+  test_save_path: '/data00/home/labspeech_intern/wangkang/Tasnet/data/separate_13.6/test_input_4s'
+  num_data: 12780  #you don't need to change the value,it is not used
+  sr: 8000
+  N_L: 40   #N_L is set to the number corresponding to 5ms under the given sampling rate
+  len_time: 4   #There 2 training stages: first 0.5s and then 4s 
+  is_norm: True   #you don't need to change the value,it is not used
+
+#Parameters for data loader, you only need to change the train_path_npz and valid_path_npz for different datasets
+dataloader:
+  shuffle: true
+  batch_size: 12
+  drop_last: true
+  train_path_npz: '/data00/home/labspeech_intern/wangkang/Tasnet/data/separate_13.6/train_input_4s'
+  valid_path_npz: '/data00/home/labspeech_intern/wangkang/Tasnet/data/separate_13.6/dev_input_4s'
+  test_path_npz: '/data00/home/labspeech_intern/wangkang/Tasnet/data/separate_13.6/test_input_4s'
+
+#Parameters for test.py 
+test:
+  test_path_npz: '/data/kanwang/TasNET/data/temp_test'
+  file1: '8-1.wav'    #you don't need to change the value,it is not used
+  file2: '8-2.wav'    #you don't need to change the value,it is not used
+  test_batch_size: 1
+  test_model_path: '/data00/home/labspeech_intern/wangkang/Tasnet/code/Conv-TasNet-myself/models/TasNET_73_trainloss_-3.8824e+01_valloss_-3.4106e+01.pkl'
+  test_save_path: '/data/kanwang/TasNET/test/'   #The mix audio and separated audios will be saved in /mix/, /s1/, /s2/ under test_save_path
+  test_load_path: '/data00/home/labspeech_intern/wangkang/Tasnet/data/min/tt/'
+  test_len_time: 4   #you don't need to change the value,it is not used
+
