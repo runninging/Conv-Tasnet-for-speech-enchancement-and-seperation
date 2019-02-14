@@ -1,0 +1,608 @@
+nohup: ignoring input
+2019-02-13 13:33:49,844 [test.py:51 - INFO ] Testing...
+/data00/home/labspeech_intern/wangkang/Tasnet/code/Conv-TasNet-myself/utils.py:42: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than tensor.new_tensor(sourceTensor).
+  frame = signal.new_tensor(frame).long()  # signal may in GPU or CPU
+2019-02-13 13:35:20,061 [test.py:119 - INFO ] The current SDR was 18.483502846879155/10
+2019-02-13 13:35:20,061 [test.py:120 - INFO ] SDR lower than 5 were 0/10
+2019-02-13 13:36:49,534 [test.py:119 - INFO ] The current SDR was 18.64254971685671/20
+2019-02-13 13:36:49,535 [test.py:120 - INFO ] SDR lower than 5 were 0/20
+2019-02-13 13:38:25,160 [test.py:119 - INFO ] The current SDR was 18.472984004013657/30
+2019-02-13 13:38:25,160 [test.py:120 - INFO ] SDR lower than 5 were 0/30
+2019-02-13 13:40:01,279 [test.py:119 - INFO ] The current SDR was 18.470861416755355/40
+2019-02-13 13:40:01,280 [test.py:120 - INFO ] SDR lower than 5 were 0/40
+2019-02-13 13:41:30,849 [test.py:119 - INFO ] The current SDR was 18.30007413057518/50
+2019-02-13 13:41:30,849 [test.py:120 - INFO ] SDR lower than 5 were 0/50
+2019-02-13 13:43:06,397 [test.py:119 - INFO ] The current SDR was 18.26752810677471/60
+2019-02-13 13:43:06,397 [test.py:120 - INFO ] SDR lower than 5 were 0/60
+2019-02-13 13:44:39,904 [test.py:119 - INFO ] The current SDR was 18.276681272188323/70
+2019-02-13 13:44:39,905 [test.py:120 - INFO ] SDR lower than 5 were 0/70
+2019-02-13 13:46:14,582 [test.py:119 - INFO ] The current SDR was 18.211145544057675/80
+2019-02-13 13:46:14,582 [test.py:120 - INFO ] SDR lower than 5 were 0/80
+2019-02-13 13:47:42,796 [test.py:119 - INFO ] The current SDR was 18.180197802379094/90
+2019-02-13 13:47:42,797 [test.py:120 - INFO ] SDR lower than 5 were 0/90
+2019-02-13 13:49:15,694 [test.py:119 - INFO ] The current SDR was 18.16117191795845/100
+2019-02-13 13:49:15,697 [test.py:120 - INFO ] SDR lower than 5 were 0/100
+2019-02-13 13:50:44,402 [test.py:119 - INFO ] The current SDR was 18.096288332465914/110
+2019-02-13 13:50:44,402 [test.py:120 - INFO ] SDR lower than 5 were 0/110
+2019-02-13 13:52:14,262 [test.py:119 - INFO ] The current SDR was 18.121779034255876/120
+2019-02-13 13:52:14,262 [test.py:120 - INFO ] SDR lower than 5 were 0/120
+2019-02-13 13:53:48,344 [test.py:119 - INFO ] The current SDR was 18.09744659318813/130
+2019-02-13 13:53:48,345 [test.py:120 - INFO ] SDR lower than 5 were 0/130
+2019-02-13 13:55:23,752 [test.py:119 - INFO ] The current SDR was 18.141131509077336/140
+2019-02-13 13:55:23,752 [test.py:120 - INFO ] SDR lower than 5 were 0/140
+2019-02-13 13:56:55,594 [test.py:119 - INFO ] The current SDR was 18.132827724905535/150
+2019-02-13 13:56:55,594 [test.py:120 - INFO ] SDR lower than 5 were 0/150
+2019-02-13 13:58:28,708 [test.py:119 - INFO ] The current SDR was 18.118063099026017/160
+2019-02-13 13:58:28,708 [test.py:120 - INFO ] SDR lower than 5 were 0/160
+2019-02-13 14:00:02,493 [test.py:119 - INFO ] The current SDR was 18.01804832237907/170
+2019-02-13 14:00:02,494 [test.py:120 - INFO ] SDR lower than 5 were 1/170
+2019-02-13 14:01:34,187 [test.py:119 - INFO ] The current SDR was 18.086867824957867/180
+2019-02-13 14:01:34,187 [test.py:120 - INFO ] SDR lower than 5 were 1/180
+2019-02-13 14:03:01,545 [test.py:119 - INFO ] The current SDR was 18.13192296982243/190
+2019-02-13 14:03:01,545 [test.py:120 - INFO ] SDR lower than 5 were 1/190
+2019-02-13 14:04:33,173 [test.py:119 - INFO ] The current SDR was 18.17450289272194/200
+2019-02-13 14:04:33,173 [test.py:120 - INFO ] SDR lower than 5 were 1/200
+2019-02-13 14:06:02,274 [test.py:119 - INFO ] The current SDR was 18.217088760516024/210
+2019-02-13 14:06:02,275 [test.py:120 - INFO ] SDR lower than 5 were 1/210
+2019-02-13 14:07:30,517 [test.py:119 - INFO ] The current SDR was 18.211930939378675/220
+2019-02-13 14:07:30,517 [test.py:120 - INFO ] SDR lower than 5 were 1/220
+2019-02-13 14:08:55,837 [test.py:119 - INFO ] The current SDR was 18.180180781903168/230
+2019-02-13 14:08:55,837 [test.py:120 - INFO ] SDR lower than 5 were 2/230
+2019-02-13 14:10:25,473 [test.py:119 - INFO ] The current SDR was 18.22332328354402/240
+2019-02-13 14:10:25,473 [test.py:120 - INFO ] SDR lower than 5 were 2/240
+2019-02-13 14:11:57,233 [test.py:119 - INFO ] The current SDR was 18.27499674541288/250
+2019-02-13 14:11:57,233 [test.py:120 - INFO ] SDR lower than 5 were 2/250
+2019-02-13 14:13:03,934 [test.py:119 - INFO ] The current SDR was 18.295064636448927/260
+2019-02-13 14:13:03,934 [test.py:120 - INFO ] SDR lower than 5 were 2/260
+2019-02-13 14:14:12,213 [test.py:119 - INFO ] The current SDR was 18.275870857429645/270
+2019-02-13 14:14:12,213 [test.py:120 - INFO ] SDR lower than 5 were 2/270
+2019-02-13 14:15:46,005 [test.py:119 - INFO ] The current SDR was 18.292459055682112/280
+2019-02-13 14:15:46,005 [test.py:120 - INFO ] SDR lower than 5 were 2/280
+2019-02-13 14:17:16,854 [test.py:119 - INFO ] The current SDR was 18.301993949419852/290
+2019-02-13 14:17:16,854 [test.py:120 - INFO ] SDR lower than 5 were 2/290
+2019-02-13 14:18:48,596 [test.py:119 - INFO ] The current SDR was 18.28302385315082/300
+2019-02-13 14:18:48,596 [test.py:120 - INFO ] SDR lower than 5 were 2/300
+2019-02-13 14:20:21,943 [test.py:119 - INFO ] The current SDR was 18.24947256753426/310
+2019-02-13 14:20:21,943 [test.py:120 - INFO ] SDR lower than 5 were 2/310
+2019-02-13 14:21:54,816 [test.py:119 - INFO ] The current SDR was 18.266077346298065/320
+2019-02-13 14:21:54,816 [test.py:120 - INFO ] SDR lower than 5 were 2/320
+2019-02-13 14:23:25,418 [test.py:119 - INFO ] The current SDR was 18.25720117558309/330
+2019-02-13 14:23:25,418 [test.py:120 - INFO ] SDR lower than 5 were 2/330
+2019-02-13 14:25:02,091 [test.py:119 - INFO ] The current SDR was 18.262899757331223/340
+2019-02-13 14:25:02,092 [test.py:120 - INFO ] SDR lower than 5 were 2/340
+2019-02-13 14:26:36,288 [test.py:119 - INFO ] The current SDR was 18.269281898359782/350
+2019-02-13 14:26:36,288 [test.py:120 - INFO ] SDR lower than 5 were 2/350
+2019-02-13 14:28:10,053 [test.py:119 - INFO ] The current SDR was 18.278238641649775/360
+2019-02-13 14:28:10,053 [test.py:120 - INFO ] SDR lower than 5 were 2/360
+2019-02-13 14:29:47,500 [test.py:119 - INFO ] The current SDR was 18.302168931231613/370
+2019-02-13 14:29:47,500 [test.py:120 - INFO ] SDR lower than 5 were 2/370
+2019-02-13 14:31:27,258 [test.py:119 - INFO ] The current SDR was 18.278180832698943/380
+2019-02-13 14:31:27,258 [test.py:120 - INFO ] SDR lower than 5 were 2/380
+2019-02-13 14:33:04,791 [test.py:119 - INFO ] The current SDR was 18.28594978990614/390
+2019-02-13 14:33:04,791 [test.py:120 - INFO ] SDR lower than 5 were 2/390
+2019-02-13 14:34:44,148 [test.py:119 - INFO ] The current SDR was 18.295356878389065/400
+2019-02-13 14:34:44,148 [test.py:120 - INFO ] SDR lower than 5 were 2/400
+2019-02-13 14:36:18,981 [test.py:119 - INFO ] The current SDR was 18.309665565412548/410
+2019-02-13 14:36:18,981 [test.py:120 - INFO ] SDR lower than 5 were 2/410
+2019-02-13 14:37:55,554 [test.py:119 - INFO ] The current SDR was 18.33371013464964/420
+2019-02-13 14:37:55,554 [test.py:120 - INFO ] SDR lower than 5 were 2/420
+2019-02-13 14:39:31,435 [test.py:119 - INFO ] The current SDR was 18.345054531983767/430
+2019-02-13 14:39:31,435 [test.py:120 - INFO ] SDR lower than 5 were 2/430
+2019-02-13 14:41:08,247 [test.py:119 - INFO ] The current SDR was 18.360698226695934/440
+2019-02-13 14:41:08,247 [test.py:120 - INFO ] SDR lower than 5 were 2/440
+2019-02-13 14:42:46,812 [test.py:119 - INFO ] The current SDR was 18.374764073233845/450
+2019-02-13 14:42:46,812 [test.py:120 - INFO ] SDR lower than 5 were 2/450
+2019-02-13 14:44:26,079 [test.py:119 - INFO ] The current SDR was 18.374862714446902/460
+2019-02-13 14:44:26,079 [test.py:120 - INFO ] SDR lower than 5 were 2/460
+2019-02-13 14:46:03,047 [test.py:119 - INFO ] The current SDR was 18.382628938088697/470
+2019-02-13 14:46:03,047 [test.py:120 - INFO ] SDR lower than 5 were 2/470
+2019-02-13 14:47:41,736 [test.py:119 - INFO ] The current SDR was 18.383210994343337/480
+2019-02-13 14:47:41,736 [test.py:120 - INFO ] SDR lower than 5 were 2/480
+2019-02-13 14:49:21,039 [test.py:119 - INFO ] The current SDR was 18.387867048129856/490
+2019-02-13 14:49:21,039 [test.py:120 - INFO ] SDR lower than 5 were 2/490
+2019-02-13 14:50:59,922 [test.py:119 - INFO ] The current SDR was 18.395281100105805/500
+2019-02-13 14:50:59,922 [test.py:120 - INFO ] SDR lower than 5 were 2/500
+2019-02-13 14:53:25,194 [test.py:119 - INFO ] The current SDR was 18.396056814373384/510
+2019-02-13 14:53:25,194 [test.py:120 - INFO ] SDR lower than 5 were 2/510
+2019-02-13 14:55:27,130 [test.py:119 - INFO ] The current SDR was 18.369856580442796/520
+2019-02-13 14:55:27,130 [test.py:120 - INFO ] SDR lower than 5 were 2/520
+2019-02-13 14:57:41,497 [test.py:119 - INFO ] The current SDR was 18.342363863687076/530
+2019-02-13 14:57:41,497 [test.py:120 - INFO ] SDR lower than 5 were 2/530
+2019-02-13 14:59:31,634 [test.py:119 - INFO ] The current SDR was 18.34947839505579/540
+2019-02-13 14:59:31,635 [test.py:120 - INFO ] SDR lower than 5 were 2/540
+2019-02-13 15:01:52,436 [test.py:119 - INFO ] The current SDR was 18.34711326354623/550
+2019-02-13 15:01:52,436 [test.py:120 - INFO ] SDR lower than 5 were 2/550
+2019-02-13 15:04:01,433 [test.py:119 - INFO ] The current SDR was 18.299706975275793/560
+2019-02-13 15:04:01,433 [test.py:120 - INFO ] SDR lower than 5 were 3/560
+2019-02-13 15:05:56,228 [test.py:119 - INFO ] The current SDR was 18.295560625204935/570
+2019-02-13 15:05:56,228 [test.py:120 - INFO ] SDR lower than 5 were 3/570
+2019-02-13 15:07:55,823 [test.py:119 - INFO ] The current SDR was 18.306197217674075/580
+2019-02-13 15:07:55,831 [test.py:120 - INFO ] SDR lower than 5 were 3/580
+2019-02-13 15:10:46,899 [test.py:119 - INFO ] The current SDR was 18.29891358491049/590
+2019-02-13 15:10:46,900 [test.py:120 - INFO ] SDR lower than 5 were 3/590
+2019-02-13 15:12:58,866 [test.py:119 - INFO ] The current SDR was 18.305001465248253/600
+2019-02-13 15:12:58,866 [test.py:120 - INFO ] SDR lower than 5 were 3/600
+2019-02-13 15:14:32,122 [test.py:119 - INFO ] The current SDR was 18.319918466139356/610
+2019-02-13 15:14:32,123 [test.py:120 - INFO ] SDR lower than 5 were 3/610
+2019-02-13 15:16:04,652 [test.py:119 - INFO ] The current SDR was 18.29834830651735/620
+2019-02-13 15:16:04,652 [test.py:120 - INFO ] SDR lower than 5 were 4/620
+2019-02-13 15:17:37,754 [test.py:119 - INFO ] The current SDR was 18.295382086410978/630
+2019-02-13 15:17:37,754 [test.py:120 - INFO ] SDR lower than 5 were 4/630
+2019-02-13 15:19:12,255 [test.py:119 - INFO ] The current SDR was 18.29040972858663/640
+2019-02-13 15:19:12,255 [test.py:120 - INFO ] SDR lower than 5 were 4/640
+2019-02-13 15:20:45,652 [test.py:119 - INFO ] The current SDR was 18.270804143449748/650
+2019-02-13 15:20:45,652 [test.py:120 - INFO ] SDR lower than 5 were 4/650
+2019-02-13 15:22:26,011 [test.py:119 - INFO ] The current SDR was 18.270671804685605/660
+2019-02-13 15:22:26,011 [test.py:120 - INFO ] SDR lower than 5 were 4/660
+2019-02-13 15:24:11,105 [test.py:119 - INFO ] The current SDR was 18.24443999201621/670
+2019-02-13 15:24:11,105 [test.py:120 - INFO ] SDR lower than 5 were 5/670
+2019-02-13 15:26:00,080 [test.py:119 - INFO ] The current SDR was 18.24493152751837/680
+2019-02-13 15:26:00,080 [test.py:120 - INFO ] SDR lower than 5 were 5/680
+2019-02-13 15:27:49,739 [test.py:119 - INFO ] The current SDR was 18.247860622101676/690
+2019-02-13 15:27:49,739 [test.py:120 - INFO ] SDR lower than 5 were 5/690
+2019-02-13 15:29:35,622 [test.py:119 - INFO ] The current SDR was 18.270089408859135/700
+2019-02-13 15:29:35,622 [test.py:120 - INFO ] SDR lower than 5 were 5/700
+2019-02-13 15:31:24,987 [test.py:119 - INFO ] The current SDR was 18.266933548030263/710
+2019-02-13 15:31:24,987 [test.py:120 - INFO ] SDR lower than 5 were 5/710
+2019-02-13 15:33:17,973 [test.py:119 - INFO ] The current SDR was 18.24840352457586/720
+2019-02-13 15:33:17,973 [test.py:120 - INFO ] SDR lower than 5 were 6/720
+2019-02-13 15:35:09,944 [test.py:119 - INFO ] The current SDR was 18.21157091360443/730
+2019-02-13 15:35:09,944 [test.py:120 - INFO ] SDR lower than 5 were 7/730
+2019-02-13 15:37:03,137 [test.py:119 - INFO ] The current SDR was 18.18405487934495/740
+2019-02-13 15:37:03,137 [test.py:120 - INFO ] SDR lower than 5 were 8/740
+2019-02-13 15:38:49,082 [test.py:119 - INFO ] The current SDR was 18.16847162717942/750
+2019-02-13 15:38:49,082 [test.py:120 - INFO ] SDR lower than 5 were 9/750
+2019-02-13 15:40:36,887 [test.py:119 - INFO ] The current SDR was 18.176250786610186/760
+2019-02-13 15:40:36,887 [test.py:120 - INFO ] SDR lower than 5 were 9/760
+2019-02-13 15:42:23,485 [test.py:119 - INFO ] The current SDR was 18.177576264277054/770
+2019-02-13 15:42:23,486 [test.py:120 - INFO ] SDR lower than 5 were 9/770
+2019-02-13 15:44:14,739 [test.py:119 - INFO ] The current SDR was 18.14189009621475/780
+2019-02-13 15:44:14,739 [test.py:120 - INFO ] SDR lower than 5 were 11/780
+2019-02-13 15:46:04,176 [test.py:119 - INFO ] The current SDR was 18.146003364369086/790
+2019-02-13 15:46:04,176 [test.py:120 - INFO ] SDR lower than 5 were 11/790
+2019-02-13 15:47:50,940 [test.py:119 - INFO ] The current SDR was 18.137492212650876/800
+2019-02-13 15:47:50,940 [test.py:120 - INFO ] SDR lower than 5 were 11/800
+2019-02-13 15:49:42,575 [test.py:119 - INFO ] The current SDR was 18.119961987368228/810
+2019-02-13 15:49:42,576 [test.py:120 - INFO ] SDR lower than 5 were 12/810
+2019-02-13 15:51:38,786 [test.py:119 - INFO ] The current SDR was 18.069151262393067/820
+2019-02-13 15:51:38,787 [test.py:120 - INFO ] SDR lower than 5 were 13/820
+2019-02-13 15:53:34,900 [test.py:119 - INFO ] The current SDR was 18.053124179453338/830
+2019-02-13 15:53:34,900 [test.py:120 - INFO ] SDR lower than 5 were 13/830
+2019-02-13 15:55:21,913 [test.py:119 - INFO ] The current SDR was 18.020272158361884/840
+2019-02-13 15:55:21,913 [test.py:120 - INFO ] SDR lower than 5 were 13/840
+2019-02-13 15:57:11,556 [test.py:119 - INFO ] The current SDR was 18.002158352732135/850
+2019-02-13 15:57:11,556 [test.py:120 - INFO ] SDR lower than 5 were 13/850
+2019-02-13 15:58:59,888 [test.py:119 - INFO ] The current SDR was 17.996454835788555/860
+2019-02-13 15:58:59,888 [test.py:120 - INFO ] SDR lower than 5 were 13/860
+2019-02-13 16:00:39,463 [test.py:119 - INFO ] The current SDR was 17.972231260647195/870
+2019-02-13 16:00:39,464 [test.py:120 - INFO ] SDR lower than 5 were 13/870
+2019-02-13 16:02:16,500 [test.py:119 - INFO ] The current SDR was 17.960911361656944/880
+2019-02-13 16:02:16,501 [test.py:120 - INFO ] SDR lower than 5 were 13/880
+2019-02-13 16:03:51,119 [test.py:119 - INFO ] The current SDR was 17.95549980722757/890
+2019-02-13 16:03:51,120 [test.py:120 - INFO ] SDR lower than 5 were 13/890
+2019-02-13 16:05:05,056 [test.py:119 - INFO ] The current SDR was 17.930286960804555/900
+2019-02-13 16:05:05,056 [test.py:120 - INFO ] SDR lower than 5 were 14/900
+2019-02-13 16:06:19,843 [test.py:119 - INFO ] The current SDR was 17.894731886120272/910
+2019-02-13 16:06:19,844 [test.py:120 - INFO ] SDR lower than 5 were 15/910
+2019-02-13 16:07:38,971 [test.py:119 - INFO ] The current SDR was 17.899126476031913/920
+2019-02-13 16:07:38,971 [test.py:120 - INFO ] SDR lower than 5 were 15/920
+2019-02-13 16:08:56,537 [test.py:119 - INFO ] The current SDR was 17.897561256128505/930
+2019-02-13 16:08:56,537 [test.py:120 - INFO ] SDR lower than 5 were 15/930
+2019-02-13 16:10:14,111 [test.py:119 - INFO ] The current SDR was 17.876870367213968/940
+2019-02-13 16:10:14,111 [test.py:120 - INFO ] SDR lower than 5 were 15/940
+2019-02-13 16:11:25,997 [test.py:119 - INFO ] The current SDR was 17.843923013593383/950
+2019-02-13 16:11:25,998 [test.py:120 - INFO ] SDR lower than 5 were 15/950
+2019-02-13 16:12:37,983 [test.py:119 - INFO ] The current SDR was 17.840456574022188/960
+2019-02-13 16:12:37,983 [test.py:120 - INFO ] SDR lower than 5 were 15/960
+2019-02-13 16:13:55,441 [test.py:119 - INFO ] The current SDR was 17.80858380278293/970
+2019-02-13 16:13:55,441 [test.py:120 - INFO ] SDR lower than 5 were 17/970
+2019-02-13 16:15:12,354 [test.py:119 - INFO ] The current SDR was 17.807316566052165/980
+2019-02-13 16:15:12,354 [test.py:120 - INFO ] SDR lower than 5 were 17/980
+2019-02-13 16:16:27,163 [test.py:119 - INFO ] The current SDR was 17.781346076941535/990
+2019-02-13 16:16:27,163 [test.py:120 - INFO ] SDR lower than 5 were 18/990
+2019-02-13 16:17:36,506 [test.py:119 - INFO ] The current SDR was 17.774407197918848/1000
+2019-02-13 16:17:36,506 [test.py:120 - INFO ] SDR lower than 5 were 18/1000
+2019-02-13 16:18:49,426 [test.py:119 - INFO ] The current SDR was 17.74768645984095/1010
+2019-02-13 16:18:49,427 [test.py:120 - INFO ] SDR lower than 5 were 18/1010
+2019-02-13 16:20:06,651 [test.py:119 - INFO ] The current SDR was 17.730978129704376/1020
+2019-02-13 16:20:06,651 [test.py:120 - INFO ] SDR lower than 5 were 18/1020
+2019-02-13 16:21:23,098 [test.py:119 - INFO ] The current SDR was 17.690406234084676/1030
+2019-02-13 16:21:23,099 [test.py:120 - INFO ] SDR lower than 5 were 19/1030
+2019-02-13 16:22:36,265 [test.py:119 - INFO ] The current SDR was 17.67082287087195/1040
+2019-02-13 16:22:36,265 [test.py:120 - INFO ] SDR lower than 5 were 19/1040
+2019-02-13 16:23:40,623 [test.py:119 - INFO ] The current SDR was 17.636275347816447/1050
+2019-02-13 16:23:40,624 [test.py:120 - INFO ] SDR lower than 5 were 21/1050
+2019-02-13 16:25:12,693 [test.py:119 - INFO ] The current SDR was 17.619897565237775/1060
+2019-02-13 16:25:12,693 [test.py:120 - INFO ] SDR lower than 5 were 21/1060
+2019-02-13 16:26:46,128 [test.py:119 - INFO ] The current SDR was 17.601047382395176/1070
+2019-02-13 16:26:46,128 [test.py:120 - INFO ] SDR lower than 5 were 21/1070
+2019-02-13 16:28:18,096 [test.py:119 - INFO ] The current SDR was 17.582212044290706/1080
+2019-02-13 16:28:18,096 [test.py:120 - INFO ] SDR lower than 5 were 21/1080
+2019-02-13 16:29:52,009 [test.py:119 - INFO ] The current SDR was 17.57382466886556/1090
+2019-02-13 16:29:52,009 [test.py:120 - INFO ] SDR lower than 5 were 21/1090
+2019-02-13 16:31:21,733 [test.py:119 - INFO ] The current SDR was 17.564879153379216/1100
+2019-02-13 16:31:21,733 [test.py:120 - INFO ] SDR lower than 5 were 21/1100
+2019-02-13 16:32:55,353 [test.py:119 - INFO ] The current SDR was 17.53763098860228/1110
+2019-02-13 16:32:55,353 [test.py:120 - INFO ] SDR lower than 5 were 22/1110
+2019-02-13 16:34:32,674 [test.py:119 - INFO ] The current SDR was 17.51114232357212/1120
+2019-02-13 16:34:32,674 [test.py:120 - INFO ] SDR lower than 5 were 22/1120
+2019-02-13 16:36:06,921 [test.py:119 - INFO ] The current SDR was 17.503206909563556/1130
+2019-02-13 16:36:06,922 [test.py:120 - INFO ] SDR lower than 5 were 22/1130
+2019-02-13 16:37:40,524 [test.py:119 - INFO ] The current SDR was 17.472373829675558/1140
+2019-02-13 16:37:40,524 [test.py:120 - INFO ] SDR lower than 5 were 23/1140
+2019-02-13 16:39:12,703 [test.py:119 - INFO ] The current SDR was 17.456326574543066/1150
+2019-02-13 16:39:12,703 [test.py:120 - INFO ] SDR lower than 5 were 23/1150
+2019-02-13 16:40:45,507 [test.py:119 - INFO ] The current SDR was 17.43834142157552/1160
+2019-02-13 16:40:45,507 [test.py:120 - INFO ] SDR lower than 5 were 23/1160
+2019-02-13 16:42:20,018 [test.py:119 - INFO ] The current SDR was 17.423188969054948/1170
+2019-02-13 16:42:20,018 [test.py:120 - INFO ] SDR lower than 5 were 23/1170
+2019-02-13 16:43:56,394 [test.py:119 - INFO ] The current SDR was 17.40120185390679/1180
+2019-02-13 16:43:56,394 [test.py:120 - INFO ] SDR lower than 5 were 23/1180
+2019-02-13 16:45:27,862 [test.py:119 - INFO ] The current SDR was 17.382624838675373/1190
+2019-02-13 16:45:27,862 [test.py:120 - INFO ] SDR lower than 5 were 24/1190
+2019-02-13 16:47:01,872 [test.py:119 - INFO ] The current SDR was 17.358601323028612/1200
+2019-02-13 16:47:01,872 [test.py:120 - INFO ] SDR lower than 5 were 26/1200
+2019-02-13 16:48:37,155 [test.py:119 - INFO ] The current SDR was 17.34304020837256/1210
+2019-02-13 16:48:37,156 [test.py:120 - INFO ] SDR lower than 5 were 27/1210
+2019-02-13 16:50:09,201 [test.py:119 - INFO ] The current SDR was 17.32550282979785/1220
+2019-02-13 16:50:09,201 [test.py:120 - INFO ] SDR lower than 5 were 28/1220
+2019-02-13 16:51:46,960 [test.py:119 - INFO ] The current SDR was 17.311119003804354/1230
+2019-02-13 16:51:46,960 [test.py:120 - INFO ] SDR lower than 5 were 28/1230
+2019-02-13 16:53:23,160 [test.py:119 - INFO ] The current SDR was 17.285089975087843/1240
+2019-02-13 16:53:23,160 [test.py:120 - INFO ] SDR lower than 5 were 29/1240
+2019-02-13 16:54:58,597 [test.py:119 - INFO ] The current SDR was 17.28177153051794/1250
+2019-02-13 16:54:58,597 [test.py:120 - INFO ] SDR lower than 5 were 29/1250
+2019-02-13 16:56:33,284 [test.py:119 - INFO ] The current SDR was 17.262369862986148/1260
+2019-02-13 16:56:33,285 [test.py:120 - INFO ] SDR lower than 5 were 30/1260
+2019-02-13 16:58:10,049 [test.py:119 - INFO ] The current SDR was 17.266169637479234/1270
+2019-02-13 16:58:10,049 [test.py:120 - INFO ] SDR lower than 5 were 30/1270
+2019-02-13 16:59:50,539 [test.py:119 - INFO ] The current SDR was 17.247977271972722/1280
+2019-02-13 16:59:50,540 [test.py:120 - INFO ] SDR lower than 5 were 30/1280
+2019-02-13 17:01:26,604 [test.py:119 - INFO ] The current SDR was 17.233901914839514/1290
+2019-02-13 17:01:26,604 [test.py:120 - INFO ] SDR lower than 5 were 30/1290
+2019-02-13 17:03:01,706 [test.py:119 - INFO ] The current SDR was 17.227203463928987/1300
+2019-02-13 17:03:01,706 [test.py:120 - INFO ] SDR lower than 5 were 31/1300
+2019-02-13 17:04:32,107 [test.py:119 - INFO ] The current SDR was 17.221409161854265/1310
+2019-02-13 17:04:32,107 [test.py:120 - INFO ] SDR lower than 5 were 32/1310
+2019-02-13 17:06:02,538 [test.py:119 - INFO ] The current SDR was 17.20004983965124/1320
+2019-02-13 17:06:02,538 [test.py:120 - INFO ] SDR lower than 5 were 33/1320
+2019-02-13 17:07:34,414 [test.py:119 - INFO ] The current SDR was 17.177753878309915/1330
+2019-02-13 17:07:34,414 [test.py:120 - INFO ] SDR lower than 5 were 33/1330
+2019-02-13 17:09:08,394 [test.py:119 - INFO ] The current SDR was 17.142781563357946/1340
+2019-02-13 17:09:08,394 [test.py:120 - INFO ] SDR lower than 5 were 34/1340
+2019-02-13 17:10:41,712 [test.py:119 - INFO ] The current SDR was 17.124198371887275/1350
+2019-02-13 17:10:41,712 [test.py:120 - INFO ] SDR lower than 5 were 34/1350
+2019-02-13 17:12:12,652 [test.py:119 - INFO ] The current SDR was 17.128204942140254/1360
+2019-02-13 17:12:12,652 [test.py:120 - INFO ] SDR lower than 5 were 34/1360
+2019-02-13 17:13:47,777 [test.py:119 - INFO ] The current SDR was 17.125130111437954/1370
+2019-02-13 17:13:47,777 [test.py:120 - INFO ] SDR lower than 5 were 34/1370
+2019-02-13 17:15:24,084 [test.py:119 - INFO ] The current SDR was 17.083256622496833/1380
+2019-02-13 17:15:24,084 [test.py:120 - INFO ] SDR lower than 5 were 37/1380
+2019-02-13 17:16:58,441 [test.py:119 - INFO ] The current SDR was 17.065912568729576/1390
+2019-02-13 17:16:58,442 [test.py:120 - INFO ] SDR lower than 5 were 38/1390
+2019-02-13 17:18:35,448 [test.py:119 - INFO ] The current SDR was 17.07293659052721/1400
+2019-02-13 17:18:35,448 [test.py:120 - INFO ] SDR lower than 5 were 38/1400
+2019-02-13 17:20:06,428 [test.py:119 - INFO ] The current SDR was 17.06122167322279/1410
+2019-02-13 17:20:06,428 [test.py:120 - INFO ] SDR lower than 5 were 39/1410
+2019-02-13 17:21:43,341 [test.py:119 - INFO ] The current SDR was 17.049798703089767/1420
+2019-02-13 17:21:43,341 [test.py:120 - INFO ] SDR lower than 5 were 40/1420
+2019-02-13 17:23:17,050 [test.py:119 - INFO ] The current SDR was 17.04526541201987/1430
+2019-02-13 17:23:17,051 [test.py:120 - INFO ] SDR lower than 5 were 40/1430
+2019-02-13 17:24:53,524 [test.py:119 - INFO ] The current SDR was 17.04748512989415/1440
+2019-02-13 17:24:53,524 [test.py:120 - INFO ] SDR lower than 5 were 40/1440
+2019-02-13 17:26:28,663 [test.py:119 - INFO ] The current SDR was 17.043066061977704/1450
+2019-02-13 17:26:28,663 [test.py:120 - INFO ] SDR lower than 5 were 40/1450
+2019-02-13 17:28:03,638 [test.py:119 - INFO ] The current SDR was 17.03367947941904/1460
+2019-02-13 17:28:03,638 [test.py:120 - INFO ] SDR lower than 5 were 40/1460
+2019-02-13 17:29:40,537 [test.py:119 - INFO ] The current SDR was 17.024593893436755/1470
+2019-02-13 17:29:40,537 [test.py:120 - INFO ] SDR lower than 5 were 40/1470
+2019-02-13 17:31:15,916 [test.py:119 - INFO ] The current SDR was 17.0198090335961/1480
+2019-02-13 17:31:15,916 [test.py:120 - INFO ] SDR lower than 5 were 40/1480
+2019-02-13 17:32:47,725 [test.py:119 - INFO ] The current SDR was 17.02806530578971/1490
+2019-02-13 17:32:47,726 [test.py:120 - INFO ] SDR lower than 5 were 40/1490
+2019-02-13 17:34:13,150 [test.py:119 - INFO ] The current SDR was 17.003894658768477/1500
+2019-02-13 17:34:13,150 [test.py:120 - INFO ] SDR lower than 5 were 42/1500
+2019-02-13 17:35:48,977 [test.py:119 - INFO ] The current SDR was 17.00846200805982/1510
+2019-02-13 17:35:48,977 [test.py:120 - INFO ] SDR lower than 5 were 42/1510
+2019-02-13 17:37:23,364 [test.py:119 - INFO ] The current SDR was 17.0013370348936/1520
+2019-02-13 17:37:23,364 [test.py:120 - INFO ] SDR lower than 5 were 43/1520
+2019-02-13 17:39:00,601 [test.py:119 - INFO ] The current SDR was 17.003302811664437/1530
+2019-02-13 17:39:00,601 [test.py:120 - INFO ] SDR lower than 5 were 43/1530
+2019-02-13 17:40:32,440 [test.py:119 - INFO ] The current SDR was 17.00349223889912/1540
+2019-02-13 17:40:32,440 [test.py:120 - INFO ] SDR lower than 5 were 43/1540
+2019-02-13 17:42:08,940 [test.py:119 - INFO ] The current SDR was 16.999832007946257/1550
+2019-02-13 17:42:08,940 [test.py:120 - INFO ] SDR lower than 5 were 43/1550
+2019-02-13 17:43:42,536 [test.py:119 - INFO ] The current SDR was 17.00498912744887/1560
+2019-02-13 17:43:42,536 [test.py:120 - INFO ] SDR lower than 5 were 43/1560
+2019-02-13 17:45:14,748 [test.py:119 - INFO ] The current SDR was 17.005316057256703/1570
+2019-02-13 17:45:14,748 [test.py:120 - INFO ] SDR lower than 5 were 43/1570
+2019-02-13 17:46:48,033 [test.py:119 - INFO ] The current SDR was 16.993638792065916/1580
+2019-02-13 17:46:48,033 [test.py:120 - INFO ] SDR lower than 5 were 44/1580
+2019-02-13 17:48:21,358 [test.py:119 - INFO ] The current SDR was 16.99146480841404/1590
+2019-02-13 17:48:21,358 [test.py:120 - INFO ] SDR lower than 5 were 45/1590
+2019-02-13 17:49:54,232 [test.py:119 - INFO ] The current SDR was 16.990120171576404/1600
+2019-02-13 17:49:54,232 [test.py:120 - INFO ] SDR lower than 5 were 45/1600
+2019-02-13 17:51:25,024 [test.py:119 - INFO ] The current SDR was 16.988357874081558/1610
+2019-02-13 17:51:25,024 [test.py:120 - INFO ] SDR lower than 5 were 46/1610
+2019-02-13 17:52:53,950 [test.py:119 - INFO ] The current SDR was 16.993285358837785/1620
+2019-02-13 17:52:53,950 [test.py:120 - INFO ] SDR lower than 5 were 46/1620
+2019-02-13 17:54:24,058 [test.py:119 - INFO ] The current SDR was 16.983446261793812/1630
+2019-02-13 17:54:24,059 [test.py:120 - INFO ] SDR lower than 5 were 47/1630
+2019-02-13 17:55:53,815 [test.py:119 - INFO ] The current SDR was 16.978039169600457/1640
+2019-02-13 17:55:53,815 [test.py:120 - INFO ] SDR lower than 5 were 48/1640
+2019-02-13 17:57:25,896 [test.py:119 - INFO ] The current SDR was 16.97567051867128/1650
+2019-02-13 17:57:25,896 [test.py:120 - INFO ] SDR lower than 5 were 48/1650
+2019-02-13 17:58:57,943 [test.py:119 - INFO ] The current SDR was 16.975511850875606/1660
+2019-02-13 17:58:57,944 [test.py:120 - INFO ] SDR lower than 5 were 48/1660
+2019-02-13 18:00:12,589 [test.py:119 - INFO ] The current SDR was 16.970466403655454/1670
+2019-02-13 18:00:12,589 [test.py:120 - INFO ] SDR lower than 5 were 48/1670
+2019-02-13 18:01:30,859 [test.py:119 - INFO ] The current SDR was 16.977340168285828/1680
+2019-02-13 18:01:30,859 [test.py:120 - INFO ] SDR lower than 5 were 48/1680
+2019-02-13 18:02:46,626 [test.py:119 - INFO ] The current SDR was 16.985660635328344/1690
+2019-02-13 18:02:46,626 [test.py:120 - INFO ] SDR lower than 5 were 48/1690
+2019-02-13 18:03:59,107 [test.py:119 - INFO ] The current SDR was 16.9863794499798/1700
+2019-02-13 18:03:59,107 [test.py:120 - INFO ] SDR lower than 5 were 48/1700
+2019-02-13 18:05:12,672 [test.py:119 - INFO ] The current SDR was 16.983969011009624/1710
+2019-02-13 18:05:12,672 [test.py:120 - INFO ] SDR lower than 5 were 48/1710
+2019-02-13 18:06:31,587 [test.py:119 - INFO ] The current SDR was 16.98014080642535/1720
+2019-02-13 18:06:31,588 [test.py:120 - INFO ] SDR lower than 5 were 48/1720
+2019-02-13 18:07:48,890 [test.py:119 - INFO ] The current SDR was 16.985803768071168/1730
+2019-02-13 18:07:48,890 [test.py:120 - INFO ] SDR lower than 5 were 48/1730
+2019-02-13 18:09:04,962 [test.py:119 - INFO ] The current SDR was 16.97749407936259/1740
+2019-02-13 18:09:04,962 [test.py:120 - INFO ] SDR lower than 5 were 48/1740
+2019-02-13 18:10:14,700 [test.py:119 - INFO ] The current SDR was 16.976014834319795/1750
+2019-02-13 18:10:14,701 [test.py:120 - INFO ] SDR lower than 5 were 48/1750
+2019-02-13 18:11:25,808 [test.py:119 - INFO ] The current SDR was 16.977899348768172/1760
+2019-02-13 18:11:25,809 [test.py:120 - INFO ] SDR lower than 5 were 48/1760
+2019-02-13 18:12:44,368 [test.py:119 - INFO ] The current SDR was 16.976440356744487/1770
+2019-02-13 18:12:44,369 [test.py:120 - INFO ] SDR lower than 5 were 48/1770
+2019-02-13 18:14:00,997 [test.py:119 - INFO ] The current SDR was 16.979431170101755/1780
+2019-02-13 18:14:00,997 [test.py:120 - INFO ] SDR lower than 5 were 48/1780
+2019-02-13 18:15:16,643 [test.py:119 - INFO ] The current SDR was 16.988632256161775/1790
+2019-02-13 18:15:16,643 [test.py:120 - INFO ] SDR lower than 5 were 48/1790
+2019-02-13 18:16:24,963 [test.py:119 - INFO ] The current SDR was 16.99361529481428/1800
+2019-02-13 18:16:24,963 [test.py:120 - INFO ] SDR lower than 5 were 48/1800
+2019-02-13 18:17:48,131 [test.py:119 - INFO ] The current SDR was 17.00065383553595/1810
+2019-02-13 18:17:48,131 [test.py:120 - INFO ] SDR lower than 5 were 48/1810
+2019-02-13 18:19:05,597 [test.py:119 - INFO ] The current SDR was 16.99833572620799/1820
+2019-02-13 18:19:05,597 [test.py:120 - INFO ] SDR lower than 5 were 48/1820
+2019-02-13 18:20:22,979 [test.py:119 - INFO ] The current SDR was 17.001306587861396/1830
+2019-02-13 18:20:22,979 [test.py:120 - INFO ] SDR lower than 5 were 48/1830
+2019-02-13 18:21:34,735 [test.py:119 - INFO ] The current SDR was 16.99761830339314/1840
+2019-02-13 18:21:34,735 [test.py:120 - INFO ] SDR lower than 5 were 48/1840
+2019-02-13 18:22:39,400 [test.py:119 - INFO ] The current SDR was 16.99070619902631/1850
+2019-02-13 18:22:39,400 [test.py:120 - INFO ] SDR lower than 5 were 49/1850
+2019-02-13 18:24:14,490 [test.py:119 - INFO ] The current SDR was 16.98850000335498/1860
+2019-02-13 18:24:14,491 [test.py:120 - INFO ] SDR lower than 5 were 49/1860
+2019-02-13 18:25:48,912 [test.py:119 - INFO ] The current SDR was 16.99622666215803/1870
+2019-02-13 18:25:48,912 [test.py:120 - INFO ] SDR lower than 5 were 49/1870
+2019-02-13 18:27:21,370 [test.py:119 - INFO ] The current SDR was 16.98985164598794/1880
+2019-02-13 18:27:21,370 [test.py:120 - INFO ] SDR lower than 5 were 49/1880
+2019-02-13 18:28:55,129 [test.py:119 - INFO ] The current SDR was 16.98303265977195/1890
+2019-02-13 18:28:55,129 [test.py:120 - INFO ] SDR lower than 5 were 49/1890
+2019-02-13 18:30:29,174 [test.py:119 - INFO ] The current SDR was 16.97257796780466/1900
+2019-02-13 18:30:29,174 [test.py:120 - INFO ] SDR lower than 5 were 50/1900
+2019-02-13 18:32:03,923 [test.py:119 - INFO ] The current SDR was 16.974777041943373/1910
+2019-02-13 18:32:03,924 [test.py:120 - INFO ] SDR lower than 5 were 50/1910
+2019-02-13 18:33:36,367 [test.py:119 - INFO ] The current SDR was 16.98076523601454/1920
+2019-02-13 18:33:36,368 [test.py:120 - INFO ] SDR lower than 5 were 50/1920
+2019-02-13 18:35:09,455 [test.py:119 - INFO ] The current SDR was 16.977887886617857/1930
+2019-02-13 18:35:09,455 [test.py:120 - INFO ] SDR lower than 5 were 50/1930
+2019-02-13 18:36:44,626 [test.py:119 - INFO ] The current SDR was 16.977624977988675/1940
+2019-02-13 18:36:44,626 [test.py:120 - INFO ] SDR lower than 5 were 51/1940
+2019-02-13 18:38:16,411 [test.py:119 - INFO ] The current SDR was 16.98180264160291/1950
+2019-02-13 18:38:16,411 [test.py:120 - INFO ] SDR lower than 5 were 51/1950
+2019-02-13 18:39:50,436 [test.py:119 - INFO ] The current SDR was 16.989765980155774/1960
+2019-02-13 18:39:50,436 [test.py:120 - INFO ] SDR lower than 5 were 51/1960
+2019-02-13 18:41:24,432 [test.py:119 - INFO ] The current SDR was 16.986960487418628/1970
+2019-02-13 18:41:24,432 [test.py:120 - INFO ] SDR lower than 5 were 51/1970
+2019-02-13 18:43:00,933 [test.py:119 - INFO ] The current SDR was 16.992248077337006/1980
+2019-02-13 18:43:00,933 [test.py:120 - INFO ] SDR lower than 5 were 51/1980
+2019-02-13 18:44:37,600 [test.py:119 - INFO ] The current SDR was 16.992942741780606/1990
+2019-02-13 18:44:37,600 [test.py:120 - INFO ] SDR lower than 5 were 51/1990
+2019-02-13 18:46:12,043 [test.py:119 - INFO ] The current SDR was 16.983972335952576/2000
+2019-02-13 18:46:12,044 [test.py:120 - INFO ] SDR lower than 5 were 51/2000
+2019-02-13 18:47:42,282 [test.py:119 - INFO ] The current SDR was 16.98913520268593/2010
+2019-02-13 18:47:42,283 [test.py:120 - INFO ] SDR lower than 5 were 51/2010
+2019-02-13 18:49:16,480 [test.py:119 - INFO ] The current SDR was 17.004533634684936/2020
+2019-02-13 18:49:16,481 [test.py:120 - INFO ] SDR lower than 5 were 51/2020
+2019-02-13 18:50:52,031 [test.py:119 - INFO ] The current SDR was 17.002270196818316/2030
+2019-02-13 18:50:52,031 [test.py:120 - INFO ] SDR lower than 5 were 52/2030
+2019-02-13 18:52:26,005 [test.py:119 - INFO ] The current SDR was 16.992042418584784/2040
+2019-02-13 18:52:26,006 [test.py:120 - INFO ] SDR lower than 5 were 53/2040
+2019-02-13 18:53:58,538 [test.py:119 - INFO ] The current SDR was 16.979944544822132/2050
+2019-02-13 18:53:58,538 [test.py:120 - INFO ] SDR lower than 5 were 54/2050
+2019-02-13 18:55:33,988 [test.py:119 - INFO ] The current SDR was 16.973403470737594/2060
+2019-02-13 18:55:33,988 [test.py:120 - INFO ] SDR lower than 5 were 55/2060
+2019-02-13 18:57:06,100 [test.py:119 - INFO ] The current SDR was 16.980986702203737/2070
+2019-02-13 18:57:06,100 [test.py:120 - INFO ] SDR lower than 5 were 55/2070
+2019-02-13 18:58:40,503 [test.py:119 - INFO ] The current SDR was 16.993198653940762/2080
+2019-02-13 18:58:40,503 [test.py:120 - INFO ] SDR lower than 5 were 55/2080
+2019-02-13 19:00:16,335 [test.py:119 - INFO ] The current SDR was 17.004761052891325/2090
+2019-02-13 19:00:16,335 [test.py:120 - INFO ] SDR lower than 5 were 55/2090
+2019-02-13 19:01:51,380 [test.py:119 - INFO ] The current SDR was 17.017730395169227/2100
+2019-02-13 19:01:51,381 [test.py:120 - INFO ] SDR lower than 5 were 55/2100
+2019-02-13 19:03:22,473 [test.py:119 - INFO ] The current SDR was 17.023156537099208/2110
+2019-02-13 19:03:22,473 [test.py:120 - INFO ] SDR lower than 5 were 55/2110
+2019-02-13 19:04:55,617 [test.py:119 - INFO ] The current SDR was 17.01546690370961/2120
+2019-02-13 19:04:55,617 [test.py:120 - INFO ] SDR lower than 5 were 57/2120
+2019-02-13 19:06:28,871 [test.py:119 - INFO ] The current SDR was 17.02337937607174/2130
+2019-02-13 19:06:28,871 [test.py:120 - INFO ] SDR lower than 5 were 57/2130
+2019-02-13 19:08:04,494 [test.py:119 - INFO ] The current SDR was 17.027089258609646/2140
+2019-02-13 19:08:04,494 [test.py:120 - INFO ] SDR lower than 5 were 57/2140
+2019-02-13 19:09:37,013 [test.py:119 - INFO ] The current SDR was 17.019874249138972/2150
+2019-02-13 19:09:37,013 [test.py:120 - INFO ] SDR lower than 5 were 59/2150
+2019-02-13 19:11:06,510 [test.py:119 - INFO ] The current SDR was 17.01896766096574/2160
+2019-02-13 19:11:06,511 [test.py:120 - INFO ] SDR lower than 5 were 60/2160
+2019-02-13 19:12:40,842 [test.py:119 - INFO ] The current SDR was 17.022055867624086/2170
+2019-02-13 19:12:40,842 [test.py:120 - INFO ] SDR lower than 5 were 60/2170
+2019-02-13 19:14:18,571 [test.py:119 - INFO ] The current SDR was 17.02399337055504/2180
+2019-02-13 19:14:18,571 [test.py:120 - INFO ] SDR lower than 5 were 60/2180
+2019-02-13 19:15:51,136 [test.py:119 - INFO ] The current SDR was 17.016505948558123/2190
+2019-02-13 19:15:51,136 [test.py:120 - INFO ] SDR lower than 5 were 60/2190
+2019-02-13 19:17:27,172 [test.py:119 - INFO ] The current SDR was 17.00212016904283/2200
+2019-02-13 19:17:27,172 [test.py:120 - INFO ] SDR lower than 5 were 62/2200
+2019-02-13 19:18:59,860 [test.py:119 - INFO ] The current SDR was 16.9860457701063/2210
+2019-02-13 19:18:59,860 [test.py:120 - INFO ] SDR lower than 5 were 63/2210
+2019-02-13 19:20:32,551 [test.py:119 - INFO ] The current SDR was 16.975698389695896/2220
+2019-02-13 19:20:32,551 [test.py:120 - INFO ] SDR lower than 5 were 64/2220
+2019-02-13 19:22:04,346 [test.py:119 - INFO ] The current SDR was 16.970373845353965/2230
+2019-02-13 19:22:04,346 [test.py:120 - INFO ] SDR lower than 5 were 65/2230
+2019-02-13 19:23:37,480 [test.py:119 - INFO ] The current SDR was 16.964020711913815/2240
+2019-02-13 19:23:37,480 [test.py:120 - INFO ] SDR lower than 5 were 66/2240
+2019-02-13 19:25:12,862 [test.py:119 - INFO ] The current SDR was 16.94818421397241/2250
+2019-02-13 19:25:12,863 [test.py:120 - INFO ] SDR lower than 5 were 67/2250
+2019-02-13 19:26:48,473 [test.py:119 - INFO ] The current SDR was 16.94729320628205/2260
+2019-02-13 19:26:48,474 [test.py:120 - INFO ] SDR lower than 5 were 68/2260
+2019-02-13 19:28:21,612 [test.py:119 - INFO ] The current SDR was 16.940470210562026/2270
+2019-02-13 19:28:21,612 [test.py:120 - INFO ] SDR lower than 5 were 69/2270
+2019-02-13 19:29:56,184 [test.py:119 - INFO ] The current SDR was 16.93530262319815/2280
+2019-02-13 19:29:56,184 [test.py:120 - INFO ] SDR lower than 5 were 69/2280
+2019-02-13 19:31:28,024 [test.py:119 - INFO ] The current SDR was 16.92291646100478/2290
+2019-02-13 19:31:28,025 [test.py:120 - INFO ] SDR lower than 5 were 70/2290
+2019-02-13 19:32:59,016 [test.py:119 - INFO ] The current SDR was 16.92617682912594/2300
+2019-02-13 19:32:59,016 [test.py:120 - INFO ] SDR lower than 5 were 70/2300
+2019-02-13 19:34:32,323 [test.py:119 - INFO ] The current SDR was 16.91534335116335/2310
+2019-02-13 19:34:32,323 [test.py:120 - INFO ] SDR lower than 5 were 71/2310
+2019-02-13 19:36:09,084 [test.py:119 - INFO ] The current SDR was 16.91338073343677/2320
+2019-02-13 19:36:09,084 [test.py:120 - INFO ] SDR lower than 5 were 71/2320
+2019-02-13 19:37:36,674 [test.py:119 - INFO ] The current SDR was 16.9038651013035/2330
+2019-02-13 19:37:36,674 [test.py:120 - INFO ] SDR lower than 5 were 73/2330
+2019-02-13 19:39:07,570 [test.py:119 - INFO ] The current SDR was 16.901461705482824/2340
+2019-02-13 19:39:07,570 [test.py:120 - INFO ] SDR lower than 5 were 75/2340
+2019-02-13 19:40:44,938 [test.py:119 - INFO ] The current SDR was 16.900867132359004/2350
+2019-02-13 19:40:44,938 [test.py:120 - INFO ] SDR lower than 5 were 75/2350
+2019-02-13 19:42:20,168 [test.py:119 - INFO ] The current SDR was 16.899483950905914/2360
+2019-02-13 19:42:20,168 [test.py:120 - INFO ] SDR lower than 5 were 76/2360
+2019-02-13 19:43:55,402 [test.py:119 - INFO ] The current SDR was 16.903400094312403/2370
+2019-02-13 19:43:55,402 [test.py:120 - INFO ] SDR lower than 5 were 76/2370
+2019-02-13 19:45:29,207 [test.py:119 - INFO ] The current SDR was 16.908197839970274/2380
+2019-02-13 19:45:29,207 [test.py:120 - INFO ] SDR lower than 5 were 76/2380
+2019-02-13 19:46:58,144 [test.py:119 - INFO ] The current SDR was 16.90942660564675/2390
+2019-02-13 19:46:58,145 [test.py:120 - INFO ] SDR lower than 5 were 77/2390
+2019-02-13 19:48:30,323 [test.py:119 - INFO ] The current SDR was 16.90080585029511/2400
+2019-02-13 19:48:30,324 [test.py:120 - INFO ] SDR lower than 5 were 77/2400
+2019-02-13 19:50:04,099 [test.py:119 - INFO ] The current SDR was 16.90739617261774/2410
+2019-02-13 19:50:04,099 [test.py:120 - INFO ] SDR lower than 5 were 77/2410
+2019-02-13 19:51:35,769 [test.py:119 - INFO ] The current SDR was 16.911429575797154/2420
+2019-02-13 19:51:35,769 [test.py:120 - INFO ] SDR lower than 5 were 77/2420
+2019-02-13 19:53:06,941 [test.py:119 - INFO ] The current SDR was 16.90156213319783/2430
+2019-02-13 19:53:06,942 [test.py:120 - INFO ] SDR lower than 5 were 78/2430
+2019-02-13 19:54:38,784 [test.py:119 - INFO ] The current SDR was 16.902449415490192/2440
+2019-02-13 19:54:38,789 [test.py:120 - INFO ] SDR lower than 5 were 79/2440
+2019-02-13 19:56:01,585 [test.py:119 - INFO ] The current SDR was 16.90168961573737/2450
+2019-02-13 19:56:01,586 [test.py:120 - INFO ] SDR lower than 5 were 79/2450
+2019-02-13 19:57:16,042 [test.py:119 - INFO ] The current SDR was 16.908080177755483/2460
+2019-02-13 19:57:16,043 [test.py:120 - INFO ] SDR lower than 5 were 79/2460
+2019-02-13 19:58:33,852 [test.py:119 - INFO ] The current SDR was 16.903560752955954/2470
+2019-02-13 19:58:33,852 [test.py:120 - INFO ] SDR lower than 5 were 79/2470
+2019-02-13 19:59:47,560 [test.py:119 - INFO ] The current SDR was 16.904065467391565/2480
+2019-02-13 19:59:47,560 [test.py:120 - INFO ] SDR lower than 5 were 80/2480
+2019-02-13 20:00:51,057 [test.py:119 - INFO ] The current SDR was 16.901647511483542/2490
+2019-02-13 20:00:51,057 [test.py:120 - INFO ] SDR lower than 5 were 80/2490
+2019-02-13 20:02:21,504 [test.py:119 - INFO ] The current SDR was 16.898299421677685/2500
+2019-02-13 20:02:21,505 [test.py:120 - INFO ] SDR lower than 5 were 82/2500
+2019-02-13 20:03:38,602 [test.py:119 - INFO ] The current SDR was 16.887590185668397/2510
+2019-02-13 20:03:38,602 [test.py:120 - INFO ] SDR lower than 5 were 83/2510
+2019-02-13 20:04:53,158 [test.py:119 - INFO ] The current SDR was 16.87411201807357/2520
+2019-02-13 20:04:53,158 [test.py:120 - INFO ] SDR lower than 5 were 85/2520
+2019-02-13 20:06:10,515 [test.py:119 - INFO ] The current SDR was 16.867010831084954/2530
+2019-02-13 20:06:10,515 [test.py:120 - INFO ] SDR lower than 5 were 87/2530
+2019-02-13 20:07:21,519 [test.py:119 - INFO ] The current SDR was 16.848598986744044/2540
+2019-02-13 20:07:21,520 [test.py:120 - INFO ] SDR lower than 5 were 88/2540
+2019-02-13 20:08:33,822 [test.py:119 - INFO ] The current SDR was 16.846707186798692/2550
+2019-02-13 20:08:33,823 [test.py:120 - INFO ] SDR lower than 5 were 89/2550
+2019-02-13 20:09:52,251 [test.py:119 - INFO ] The current SDR was 16.843803917963832/2560
+2019-02-13 20:09:52,251 [test.py:120 - INFO ] SDR lower than 5 were 89/2560
+2019-02-13 20:11:08,282 [test.py:119 - INFO ] The current SDR was 16.842718597713834/2570
+2019-02-13 20:11:08,282 [test.py:120 - INFO ] SDR lower than 5 were 90/2570
+2019-02-13 20:12:22,195 [test.py:119 - INFO ] The current SDR was 16.83947605432409/2580
+2019-02-13 20:12:22,195 [test.py:120 - INFO ] SDR lower than 5 were 90/2580
+2019-02-13 20:13:32,100 [test.py:119 - INFO ] The current SDR was 16.83172990186007/2590
+2019-02-13 20:13:32,100 [test.py:120 - INFO ] SDR lower than 5 were 91/2590
+2019-02-13 20:14:52,192 [test.py:119 - INFO ] The current SDR was 16.813763394695208/2600
+2019-02-13 20:14:52,192 [test.py:120 - INFO ] SDR lower than 5 were 93/2600
+2019-02-13 20:16:07,962 [test.py:119 - INFO ] The current SDR was 16.80754261018507/2610
+2019-02-13 20:16:07,962 [test.py:120 - INFO ] SDR lower than 5 were 93/2610
+2019-02-13 20:17:24,253 [test.py:119 - INFO ] The current SDR was 16.809833765579793/2620
+2019-02-13 20:17:24,253 [test.py:120 - INFO ] SDR lower than 5 were 93/2620
+2019-02-13 20:18:35,467 [test.py:119 - INFO ] The current SDR was 16.797482929647213/2630
+2019-02-13 20:18:35,467 [test.py:120 - INFO ] SDR lower than 5 were 95/2630
+2019-02-13 20:19:44,691 [test.py:119 - INFO ] The current SDR was 16.785813245369162/2640
+2019-02-13 20:19:44,692 [test.py:120 - INFO ] SDR lower than 5 were 97/2640
+2019-02-13 20:21:01,859 [test.py:119 - INFO ] The current SDR was 16.78178293305044/2650
+2019-02-13 20:21:01,860 [test.py:120 - INFO ] SDR lower than 5 were 98/2650
+2019-02-13 20:22:37,291 [test.py:119 - INFO ] The current SDR was 16.78795816269966/2660
+2019-02-13 20:22:37,292 [test.py:120 - INFO ] SDR lower than 5 were 98/2660
+2019-02-13 20:24:10,779 [test.py:119 - INFO ] The current SDR was 16.768459361376337/2670
+2019-02-13 20:24:10,779 [test.py:120 - INFO ] SDR lower than 5 were 101/2670
+2019-02-13 20:25:44,228 [test.py:119 - INFO ] The current SDR was 16.75895326841338/2680
+2019-02-13 20:25:44,228 [test.py:120 - INFO ] SDR lower than 5 were 103/2680
+2019-02-13 20:27:15,689 [test.py:119 - INFO ] The current SDR was 16.75970643976706/2690
+2019-02-13 20:27:15,689 [test.py:120 - INFO ] SDR lower than 5 were 103/2690
+2019-02-13 20:28:47,193 [test.py:119 - INFO ] The current SDR was 16.762883244215008/2700
+2019-02-13 20:28:47,193 [test.py:120 - INFO ] SDR lower than 5 were 103/2700
+2019-02-13 20:30:15,676 [test.py:119 - INFO ] The current SDR was 16.76554818849502/2710
+2019-02-13 20:30:15,676 [test.py:120 - INFO ] SDR lower than 5 were 103/2710
+2019-02-13 20:31:47,006 [test.py:119 - INFO ] The current SDR was 16.76448222825647/2720
+2019-02-13 20:31:47,006 [test.py:120 - INFO ] SDR lower than 5 were 103/2720
+2019-02-13 20:33:20,082 [test.py:119 - INFO ] The current SDR was 16.771170002869567/2730
+2019-02-13 20:33:20,082 [test.py:120 - INFO ] SDR lower than 5 were 103/2730
+2019-02-13 20:34:54,261 [test.py:119 - INFO ] The current SDR was 16.770446101366907/2740
+2019-02-13 20:34:54,261 [test.py:120 - INFO ] SDR lower than 5 were 104/2740
+2019-02-13 20:36:27,043 [test.py:119 - INFO ] The current SDR was 16.768402310971286/2750
+2019-02-13 20:36:27,043 [test.py:120 - INFO ] SDR lower than 5 were 105/2750
+2019-02-13 20:38:00,858 [test.py:119 - INFO ] The current SDR was 16.761860933842303/2760
+2019-02-13 20:38:00,858 [test.py:120 - INFO ] SDR lower than 5 were 106/2760
+2019-02-13 20:39:35,691 [test.py:119 - INFO ] The current SDR was 16.76591814610513/2770
+2019-02-13 20:39:35,691 [test.py:120 - INFO ] SDR lower than 5 were 106/2770
+2019-02-13 20:41:09,226 [test.py:119 - INFO ] The current SDR was 16.76341038295472/2780
+2019-02-13 20:41:09,226 [test.py:120 - INFO ] SDR lower than 5 were 107/2780
+2019-02-13 20:42:44,434 [test.py:119 - INFO ] The current SDR was 16.766573834111526/2790
+2019-02-13 20:42:44,434 [test.py:120 - INFO ] SDR lower than 5 were 107/2790
+2019-02-13 20:44:16,478 [test.py:119 - INFO ] The current SDR was 16.768134898345224/2800
+2019-02-13 20:44:16,478 [test.py:120 - INFO ] SDR lower than 5 were 107/2800
+2019-02-13 20:45:52,553 [test.py:119 - INFO ] The current SDR was 16.764604244081276/2810
+2019-02-13 20:45:52,553 [test.py:120 - INFO ] SDR lower than 5 were 108/2810
+2019-02-13 20:47:26,309 [test.py:119 - INFO ] The current SDR was 16.768972148566565/2820
+2019-02-13 20:47:26,309 [test.py:120 - INFO ] SDR lower than 5 were 108/2820
+2019-02-13 20:48:58,157 [test.py:119 - INFO ] The current SDR was 16.77075993043617/2830
+2019-02-13 20:48:58,157 [test.py:120 - INFO ] SDR lower than 5 were 108/2830
+2019-02-13 20:50:30,458 [test.py:119 - INFO ] The current SDR was 16.764661212832067/2840
+2019-02-13 20:50:30,458 [test.py:120 - INFO ] SDR lower than 5 were 109/2840
+2019-02-13 20:52:02,420 [test.py:119 - INFO ] The current SDR was 16.768882125866316/2850
+2019-02-13 20:52:02,420 [test.py:120 - INFO ] SDR lower than 5 were 110/2850
+2019-02-13 20:53:36,615 [test.py:119 - INFO ] The current SDR was 16.766539416302976/2860
+2019-02-13 20:53:36,616 [test.py:120 - INFO ] SDR lower than 5 were 111/2860
+2019-02-13 20:55:10,080 [test.py:119 - INFO ] The current SDR was 16.767118910028778/2870
+2019-02-13 20:55:10,080 [test.py:120 - INFO ] SDR lower than 5 were 112/2870
+2019-02-13 20:56:43,050 [test.py:119 - INFO ] The current SDR was 16.756955820422565/2880
+2019-02-13 20:56:43,050 [test.py:120 - INFO ] SDR lower than 5 were 115/2880
+2019-02-13 20:58:17,879 [test.py:119 - INFO ] The current SDR was 16.74954673013533/2890
+2019-02-13 20:58:17,880 [test.py:120 - INFO ] SDR lower than 5 were 117/2890
+2019-02-13 20:59:52,703 [test.py:119 - INFO ] The current SDR was 16.728844574989882/2900
+2019-02-13 20:59:52,703 [test.py:120 - INFO ] SDR lower than 5 were 121/2900
+2019-02-13 21:01:27,475 [test.py:119 - INFO ] The current SDR was 16.718356697571938/2910
+2019-02-13 21:01:27,475 [test.py:120 - INFO ] SDR lower than 5 were 123/2910
+2019-02-13 21:02:58,195 [test.py:119 - INFO ] The current SDR was 16.716661524590656/2920
+2019-02-13 21:02:58,195 [test.py:120 - INFO ] SDR lower than 5 were 124/2920
+2019-02-13 21:04:31,314 [test.py:119 - INFO ] The current SDR was 16.718723881254395/2930
+2019-02-13 21:04:31,315 [test.py:120 - INFO ] SDR lower than 5 were 124/2930
+2019-02-13 21:06:04,311 [test.py:119 - INFO ] The current SDR was 16.708882036369246/2940
+2019-02-13 21:06:04,311 [test.py:120 - INFO ] SDR lower than 5 were 126/2940
+2019-02-13 21:07:37,993 [test.py:119 - INFO ] The current SDR was 16.702695304332725/2950
+2019-02-13 21:07:37,993 [test.py:120 - INFO ] SDR lower than 5 were 127/2950
+2019-02-13 21:09:13,155 [test.py:119 - INFO ] The current SDR was 16.700146068027543/2960
+2019-02-13 21:09:13,155 [test.py:120 - INFO ] SDR lower than 5 were 128/2960
+2019-02-13 21:10:41,952 [test.py:119 - INFO ] The current SDR was 16.70859356128505/2970
+2019-02-13 21:10:41,953 [test.py:120 - INFO ] SDR lower than 5 were 128/2970
+2019-02-13 21:12:18,591 [test.py:119 - INFO ] The current SDR was 16.699421823260828/2980
+2019-02-13 21:12:18,591 [test.py:120 - INFO ] SDR lower than 5 were 129/2980
+2019-02-13 21:13:54,479 [test.py:119 - INFO ] The current SDR was 16.703332319489842/2990
+2019-02-13 21:13:54,480 [test.py:120 - INFO ] SDR lower than 5 were 129/2990
+2019-02-13 21:15:28,515 [test.py:119 - INFO ] The current SDR was 16.70465529769431/3000
+2019-02-13 21:15:28,515 [test.py:120 - INFO ] SDR lower than 5 were 129/3000
+2019-02-13 21:15:28,515 [test.py:123 - INFO ] Testing for all 3000 waves have done!
+2019-02-13 21:15:28,515 [test.py:124 - INFO ] The total mean SDR is 16.70465529769431
+sorted SDR list:
+[-3.4922242338158815, -3.0217213174946975, -2.6978144768995476, -2.562091246575039, -2.429096303537713, -2.240046056373657, -2.185090025106767, -2.143837458888189, -2.033006861162472, -1.9460956693749272, -1.9066918131256019, -1.8480927802623617, -1.8248852622503626, -1.596425502805313, -1.5731947202804293, -1.2950640227817019, -1.2100387022164159, -0.7989330778312992, -0.7616992226756869, -0.7347164072495445, -0.695976316932924, -0.6781841108438709, -0.6734032343870917, -0.5638648746610561, -0.44273499335830513, -0.4175350618509736, -0.14179888613909308, -0.060444882082995754, 0.06456357229289122, 0.08323392068961533, 0.08967198372351981, 0.13598143839888094, 0.1634377640669588, 0.16415722763658214, 0.16516716479128823, 0.24249732507144106, 0.34005788308379925, 0.3464417994662754, 0.3866898071525381, 0.3997224968940296, 0.5223040835553134, 0.5371979852357107, 0.5372939062613064, 0.5850326913752217, 0.6035188728746634, 0.7148664151368602, 0.8157734945142773, 0.8304631388689494, 0.8431124884086219, 1.0099860648056496, 1.0198694667382633, 1.2597347419599374, 1.3510825657144625, 1.370678551149795, 1.4073248087670973, 1.4080549089224816, 1.5080232445053459, 1.5118776302297117, 1.530018931693943, 1.5338887446937248, 1.5580558739316475, 1.5633724922851482, 1.6069408016187894, 1.6276335565365716, 1.819755083237915, 1.838149788265015, 2.0720526816621976, 2.09632094080073, 2.167162822318069, 2.255910421373584, 2.2718316217729466, 2.292977113663648, 2.389068857986811, 2.466886394292891, 2.478900504302325, 2.4839964401016927, 2.524582060829305, 2.7774726299921992, 2.789099618288296, 2.8075546953608326, 2.8212528106055186, 2.93036792512567, 2.9905692476888692, 3.057014893800143, 3.0616966008290536, 3.0683594078393917, 3.0688581874101324, 3.150235851131839, 3.1816590068785975, 3.182877074198208, 3.1927150492853285, 3.203534590588685, 3.2462512879857024, 3.285938334923003, 3.303602825609407, 3.3452009727059586, 3.361776520822733, 3.528094779677158, 3.5459670498379965, 3.9496402458240407, 3.9836058288120624, 4.060216123490192, 4.065686766746736, 4.102321676562161, 4.230811445040489, 4.25789700219356, 4.26106711536011, 4.264348742329307, 4.339927585855312, 4.435744064352426, 4.437743346709363, 4.454711894066271, 4.486893213154964, 4.486973007825092, 4.494438785176201, 4.494557755566849, 4.516615900852446, 4.5259316452346425, 4.551017730728507, 4.609714104366897, 4.757972646426597, 4.82611230626506, 4.831823213118891, 4.910911452490059, 4.911312822399373, 4.9218622925616895, 4.921970180953041, 4.923463742595368, 4.955879542811214, 5.088769564337515, 5.1249645345026975, 5.132255833185795, 5.138540940534218, 5.173607791194289, 5.191933572628185, 5.220476952762415, 5.27324906749326, 5.28509911743949, 5.402427877909885, 5.493511735559325, 5.494709379471955, 5.578643083901859, 5.630353455474085, 5.732971710604897, 5.799617264700377, 5.978108872707422, 6.018161632696348, 6.0188666595320015, 6.032212752581495, 6.071317335526997, 6.097031331312582, 6.117633366922806, 6.190244363288183, 6.1977252908889975, 6.200474652638546, 6.274845188699807, 6.2875580878290505, 6.324881361950039, 6.34873357059706, 6.366366241437475, 6.456789957200371, 6.489622130545468, 6.5159158208143815, 6.573117797146026, 6.578315414925142, 6.6007165403228685, 6.616940884251859, 6.681757961254068, 6.75470440554291, 6.796885342504236, 6.802645700465318, 6.845470467858246, 6.863641329380519, 6.931610603599948, 6.949670956588214, 6.989036559257533, 7.027880511017557, 7.044930241524753, 7.047754695861448, 7.1213679041117555, 7.202728848541325, 7.205831451615926, 7.232288317899459, 7.260135811477584, 7.298225374414856, 7.300084537366745, 7.324673796468501, 7.3318125089643615, 7.347902042845236, 7.373020580753118, 7.39440726841307, 7.399421402518799, 7.414079551603474, 7.491302431518458, 7.554297664469292, 7.565211114194202, 7.629109899203371, 7.639926091181433, 7.650257820084248, 7.655288565306956, 7.679225803919233, 7.693473341672382, 7.699578727330499, 7.71277063699543, 7.726472584641001, 7.815795842590635, 7.836944678683233, 7.842960789259314, 7.85917733828987, 7.891292428406312, 7.898206509794635, 8.01109976812973, 8.036358001852252, 8.042142582095115, 8.052716466011073, 8.181226560984186, 8.184484435983528, 8.198171560008007, 8.253548079223943, 8.297444926690476, 8.30289158408401, 8.317055916303362, 8.320871136776663, 8.34672693630073, 8.35694124243835, 8.369418527068808, 8.417291867809368, 8.45646354866162, 8.489975563116351, 8.521813918234756, 8.560295046612435, 8.567899574585116, 8.58177345138478, 8.606999044050163, 8.610738310304246, 8.615049771349081, 8.626019774427595, 8.644828927643097, 8.680115502026313, 8.69637045432473, 8.749754316920374, 8.76054050744187, 8.801833775966251, 8.804532452095987, 8.868847858858079, 8.900426488156018, 8.928809086546, 8.942145101935065, 8.948875368807578, 8.972921418177574, 8.983645027531011, 9.02252342686111, 9.046836591625764, 9.049882538385713, 9.055624067307923, 9.110105955573195, 9.120251680785781, 9.243594850300644, 9.282345157589678, 9.300143631949364, 9.32857040368454, 9.34820171535186, 9.350129297935775, 9.351576030310614, 9.413201896552216, 9.419570831201238, 9.475177779367517, 9.478974597417581, 9.512952097050771, 9.538244862268868, 9.670960918608785, 9.698261909494425, 9.737984660418359, 9.750984294826143, 9.787947375750809, 9.81948451899971, 9.920267865757953, 9.924621660540852, 9.951336705620875, 10.013498312371537, 10.100291166397147, 10.192960522162267, 10.194677576332344, 10.19857727629609, 10.224508751051937, 10.252954649133363, 10.255473793196803, 10.264853500657278, 10.275538317104822, 10.315772652154495, 10.329885322165687, 10.414996058814848, 10.432358281764866, 10.442418062669127, 10.457593238173843, 10.515736864948813, 10.533170815260547, 10.579864251967035, 10.5910448245716, 10.621111345688732, 10.628179097978744, 10.693992461929069, 10.69870148922648, 10.756801662715919, 10.760241789397472, 10.78513569990778, 10.80732402641658, 10.852780307133493, 10.863820241779667, 10.89547552609011, 10.93814392393839, 10.94536410469476, 10.958847210030314, 10.963466243662356, 10.983005266448655, 10.996700210251529, 11.006348377193895, 11.087701722448664, 11.114144400194652, 11.141399818840659, 11.14970986131646, 11.17820215899194, 11.18196815611731, 11.183537765064509, 11.18503390845527, 11.268208800131431, 11.284826075522552, 11.29303982573214, 11.307349800046612, 11.315335169236022, 11.31757875012189, 11.324486715010778, 11.340397211886208, 11.346683149306601, 11.349472695314425, 11.355072648159034, 11.416819144018989, 11.46778765985141, 11.47761257796588, 11.591499337731495, 11.599188707828677, 11.634823920827483, 11.673509583249896, 11.698934289224969, 11.723109697053204, 11.72408726417824, 11.733890654345483, 11.75656511885376, 11.775964104992742, 11.792151251756856, 11.796328720592435, 11.820567087656203, 11.901649799820596, 11.963915492727596, 11.989911235635127, 12.03507596329012, 12.035737678382667, 12.049701338566958, 12.05424625655916, 12.099114708004691, 12.11474724882439, 12.13292062843615, 12.168333019878219, 12.173108781516817, 12.207512556910128, 12.226409951693967, 12.251147299851826, 12.251250571147587, 12.272168459492963, 12.284524850901004, 12.310720468909711, 12.320813369573848, 12.347109825303768, 12.479719462015789, 12.492927667481524, 12.514562882902716, 12.636521643354712, 12.66688955883465, 12.674371699725668, 12.720429125148208, 12.728847156648865, 12.759683697122231, 12.779380547215457, 12.818221914513927, 12.860320694458373, 12.877139033780326, 12.880165889084761, 12.882614625700624, 12.902589127104543, 12.910946379809921, 12.953201807809425, 12.960287563876715, 12.968225873642082, 13.010284373625668, 13.074886634820437, 13.101400251712448, 13.14906605075735, 13.15144966353332, 13.160312643132878, 13.160536563154897, 13.184003952488933, 13.197908516081029, 13.198551511562172, 13.199677253124431, 13.22415947963321, 13.252849755267306, 13.31873711201732, 13.331037737240266, 13.371385542553458, 13.371802783401112, 13.383361847077676, 13.399313521334097, 13.448159309558601, 13.448771747810559, 13.463443219713518, 13.506883251889523, 13.538288199707722, 13.554377684660846, 13.616109843987367, 13.625778006572872, 13.646509824207223, 13.798867983084225, 13.834248575962501, 13.83590101173431, 13.84733672546434, 13.854271372393143, 13.86680591446196, 13.874401216505097, 13.93110687873591, 13.939934334507056, 13.943827001888032, 13.945349979577589, 14.004402512385226, 14.082005241804312, 14.102592080262376, 14.105676958106606, 14.137139877885277, 14.144995117773327, 14.167236392891937, 14.21042877187485, 14.215359361171268, 14.21893588200725, 14.222842234054717, 14.244707606714414, 14.248117333094955, 14.25420257065326, 14.257125900035916, 14.292767941750842, 14.304453268770263, 14.329554396660388, 14.362125658751882, 14.38347502156735, 14.407512562951343, 14.46693594875422, 14.471144069998156, 14.478242495645054, 14.51004619229623, 14.52602373363376, 14.551055033648925, 14.563090272789985, 14.572898495183054, 14.583245601615992, 14.584079277108234, 14.623902927710017, 14.676745272460623, 14.699374519420152, 14.72849874251968, 14.730606168466105, 14.739492045012174, 14.75622858299199, 14.765132458253383, 14.786390026575313, 14.821444340492182, 14.822834309397688, 14.85061570859834, 14.865787884410778, 14.880970257445693, 14.89367564130773, 14.911625197202795, 14.919110715281455, 14.957700121218071, 14.958575355684658, 14.976329616929068, 14.977130913554653, 14.979904999263926, 14.987499835142351, 14.99331141149701, 14.99977341229042, 15.018711957668943, 15.027778791218893, 15.034522599618619, 15.036619568483832, 15.044768468015263, 15.06235798943312, 15.065132111023551, 15.065966596380996, 15.077150756883718, 15.088619645855704, 15.103892053268055, 15.11118724883881, 15.111777804423633, 15.127097632204938, 15.130715619738943, 15.131248162602029, 15.132440243938412, 15.137696490754571, 15.14757998079684, 15.165342013645185, 15.170807279844041, 15.183843507889604, 15.200507891197502, 15.208922774275903, 15.239883683300246, 15.24648976709712, 15.250709625037711, 15.278304097353864, 15.287662411439971, 15.3101679043619, 15.322230322385122, 15.338268416823992, 15.348773095125914, 15.367051737469417, 15.368436100114371, 15.37718872321593, 15.378945510783684, 15.384254153386635, 15.388478130221774, 15.404979061821242, 15.408858326917395, 15.410833683709562, 15.421103693543856, 15.42562356187676, 15.44132352905826, 15.442366693014506, 15.44724327986126, 15.451723322144602, 15.456345857309476, 15.466165093449291, 15.490191076103745, 15.500331601525296, 15.501193678593982, 15.515793298290447, 15.523599947791588, 15.528115137284194, 15.529991490210772, 15.530590889111709, 15.540480044033053, 15.542157073731705, 15.544676072113246, 15.555914638514341, 15.557227518280035, 15.56163360793832, 15.565049081543304, 15.576803596085577, 15.576859693085348, 15.591808355502689, 15.600517980926451, 15.601082517247047, 15.60606614505371, 15.611540107083027, 15.615899805149233, 15.629053235271943, 15.632002995266909, 15.665419503759662, 15.674413484147447, 15.676329938107594, 15.680250656654326, 15.689690556397618, 15.718544809534055, 15.732262259232865, 15.732776823826729, 15.734218154174425, 15.748331325694476, 15.756290744350448, 15.759918940405782, 15.76221812073381, 15.771532366168636, 15.777378039043953, 15.777926710414452, 15.81099649672609, 15.82453066117951, 15.832256618653433, 15.836443344229659, 15.858922550202431, 15.860250040377252, 15.867693064432277, 15.87215755628789, 15.887396242067735, 15.893847734044677, 15.901017779783881, 15.91319239909422, 15.919078493440239, 15.922546323831535, 15.924864924587297, 15.926357360581921, 15.926977792482505, 15.932608156988303, 15.932648012519513, 15.933363500955846, 15.933743839900206, 15.939412365218445, 15.943636400322115, 15.945313451635041, 15.94629725708413, 15.950935538242973, 15.952873838004994, 15.95657252595289, 15.966909825037998, 15.970052647188357, 15.981101087283205, 15.984753403006563, 15.988083794792539, 15.991103841017267, 15.992616307118993, 16.001710495034523, 16.03353755278107, 16.04609680147737, 16.0498990127499, 16.05890796351002, 16.059191006093155, 16.06303071195017, 16.064673494989744, 16.066396649441092, 16.074453668631698, 16.09219711596259, 16.102821206965828, 16.103820848281917, 16.118217827886806, 16.1322421321609, 16.13509712747313, 16.1406810874937, 16.14334133864341, 16.14532665855689, 16.149290279578192, 16.155705355065106, 16.159429553452636, 16.174177588901088, 16.175077103820442, 16.177524161926257, 16.18082177101003, 16.183034034812543, 16.183241823334374, 16.184572913948163, 16.189923676038926, 16.190171333370365, 16.191364334180644, 16.195350644828505, 16.197903450562563, 16.20095445394824, 16.204355347528853, 16.212011938800988, 16.213029872149313, 16.21392999001958, 16.214578930985073, 16.21535160213231, 16.227685110740822, 16.228494837012743, 16.232063595998145, 16.249115501229213, 16.250717780476723, 16.251526023754668, 16.255867608107604, 16.258295651307463, 16.259183819059068, 16.263187518803335, 16.266146871740503, 16.268366806376175, 16.27241180635007, 16.280359489438872, 16.285932273792778, 16.289277291435305, 16.305248843229972, 16.305766897997472, 16.313725089767726, 16.313781329701783, 16.32335198748142, 16.327002014574056, 16.32905949229875, 16.339164798305372, 16.34196878511043, 16.344143548997096, 16.349027433133987, 16.349520722863105, 16.349920193599345, 16.351284551844163, 16.35647676846733, 16.35701147260775, 16.36094510310778, 16.36799585273571, 16.369563330219776, 16.37971028055121, 16.38101882888654, 16.381162308432913, 16.381574351303225, 16.381674589742815, 16.382112089891404, 16.383006431238428, 16.383679287439858, 16.392852561417342, 16.39298117937581, 16.395120743193214, 16.398775731004648, 16.40180796683902, 16.406851906506972, 16.40761969751327, 16.40925107108483, 16.40999455280707, 16.41082213779977, 16.41313674168346, 16.413207430015568, 16.41382233748056, 16.419998743743033, 16.42277386438284, 16.424922242199465, 16.427235213795832, 16.433688194280755, 16.442965696155344, 16.447137504487642, 16.451304760214583, 16.452013336535366, 16.454205292525778, 16.455008845947532, 16.458511436793845, 16.46484224380744, 16.469721802016146, 16.47032399097656, 16.47162494544528, 16.479974429582093, 16.480462435528054, 16.488629869068593, 16.49351447229388, 16.493760684833784, 16.49406332129917, 16.498875504303548, 16.504745513318763, 16.505298502706445, 16.505654037187917, 16.506478962999793, 16.522740816250604, 16.523299748268695, 16.524212772351564, 16.528841653293703, 16.53767028755289, 16.54509261529855, 16.54919481746338, 16.557167953757407, 16.558090643346297, 16.56370817577134, 16.568126783193243, 16.574590526131203, 16.575648757458808, 16.57875647878965, 16.58061840188649, 16.583287907487275, 16.5850357658971, 16.585341331730383, 16.58913520448919, 16.596339111792062, 16.603669277274726, 16.606222034041828, 16.60682772139819, 16.610923172409173, 16.611400240982977, 16.614979727461737, 16.617705931915154, 16.619617838476643, 16.61974840921155, 16.62873474825451, 16.62936924456804, 16.640128526993195, 16.642227372729234, 16.64287267584333, 16.65316160161582, 16.654906736568115, 16.6555654611197, 16.65621095765109, 16.657750576483313, 16.658004586283496, 16.66188835465115, 16.666873391311867, 16.674108130832217, 16.677512119080475, 16.67989173163931, 16.685109675655298, 16.69155786174472, 16.692192783277314, 16.69804347215498, 16.699512114314956, 16.700140847068425, 16.70077768696367, 16.701629953320168, 16.702521802970097, 16.712671139254397, 16.7174875607496, 16.718866999588183, 16.721120518855564, 16.72175171107981, 16.725934387582623, 16.731129651891024, 16.734888121649018, 16.73521710536082, 16.74157935410122, 16.75052678256539, 16.75084965187439, 16.752909892478634, 16.75390014850931, 16.75621397044997, 16.762235657919128, 16.76239749263403, 16.769623655661718, 16.770921066359094, 16.77348695673977, 16.775870725447188, 16.778659258149716, 16.778815855580532, 16.782562207617623, 16.785871734828305, 16.79121610707903, 16.79284573367002, 16.794719041800036, 16.80214923842871, 16.80327751644682, 16.803317716046845, 16.803927527195906, 16.805546987827064, 16.807508207347382, 16.810368742292653, 16.813758450053147, 16.821184166331175, 16.82267629770454, 16.826226494115716, 16.826553282770107, 16.827528366502907, 16.82819647692868, 16.832440279906468, 16.840527007326198, 16.840815110529814, 16.841158685021906, 16.8437186780231, 16.85403495097622, 16.85684396542953, 16.857770465726624, 16.859804646699928, 16.863610757780883, 16.870126086104204, 16.87146769840231, 16.872260863614745, 16.872306268101646, 16.873642804608288, 16.876622179044993, 16.87771813644575, 16.878296703394064, 16.883068659927577, 16.883209013128916, 16.88416085243431, 16.885709801582966, 16.885827069319102, 16.889277955856617, 16.895125219991595, 16.89550732277082, 16.901077507732, 16.905150153778322, 16.9055473105387, 16.906619233120573, 16.90744689311314, 16.910453150527644, 16.911794861325482, 16.914412318679645, 16.915133199434347, 16.920338035050605, 16.920565803220995, 16.922383399381232, 16.9261517762935, 16.931377540085535, 16.934869951786908, 16.93687482305782, 16.937293182281316, 16.93752998941643, 16.938391072892735, 16.938624351937424, 16.940485745982294, 16.942202040385798, 16.94381034774632, 16.944876721889322, 16.945311915167558, 16.94536610026649, 16.946132111183335, 16.946762760961636, 16.953647961984103, 16.955173904804575, 16.956883419355194, 16.962698097106202, 16.963085531005177, 16.96451672192096, 16.967895200825836, 16.96935647676078, 16.970299895506827, 16.974057319722746, 16.974327288864394, 16.978623939566575, 16.979482326748528, 16.983859972759845, 16.98944171116848, 16.99022453489782, 16.990380877569855, 16.995210240312147, 16.99666007202792, 16.99806157022814, 17.002383805295395, 17.003919188638633, 17.00472021205564, 17.006572382742238, 17.00948076226816, 17.013936979349957, 17.017867698592855, 17.024325314302494, 17.030478050815148, 17.03084600368389, 17.030853556713236, 17.03152650012035, 17.03375271309399, 17.036321595801887, 17.036982564742587, 17.03717820805323, 17.037600578281346, 17.047649720547824, 17.051543650314375, 17.052913885491943, 17.058685651810606, 17.064238723780083, 17.06469404778713, 17.06730548387739, 17.067531298431945, 17.068886106986696, 17.069092159399666, 17.070118984469662, 17.07014638436759, 17.070995951784887, 17.071601621568895, 17.072666151493166, 17.07406008497894, 17.076539459148243, 17.078571101751876, 17.081245945925215, 17.084676996687044, 17.08548760134766, 17.086747415456294, 17.087519406006933, 17.088648852680777, 17.089669800801158, 17.09042637271632, 17.09170673396605, 17.093739027119796, 17.096590419089004, 17.097176145188488, 17.09868883209904, 17.103594939871822, 17.10416535870958, 17.10569206914551, 17.10610144022524, 17.10924672727424, 17.111378221674485, 17.11235205594121, 17.114118706508634, 17.116249397554682, 17.1233391779915, 17.128701962582543, 17.133106323920856, 17.137726283880923, 17.139322087067075, 17.14259553410214, 17.145083726605634, 17.14617503645551, 17.151040901091093, 17.152154579846957, 17.15256118105485, 17.153180014913207, 17.15332039574647, 17.153738458995697, 17.15526217317558, 17.15744786971259, 17.158940919447495, 17.159959345309687, 17.160601922925572, 17.164679436517368, 17.164910883755258, 17.16609124442293, 17.178961499225604, 17.17970227506818, 17.182024974863722, 17.18985477170094, 17.190217662979748, 17.19101850222693, 17.191529269611912, 17.192803663884803, 17.196673551183395, 17.198700073050322, 17.204711632684855, 17.205855555786712, 17.207751024284025, 17.208630073892323, 17.213451532148582, 17.213470049031272, 17.214868240903698, 17.217675933682344, 17.220155411780986, 17.22111456286939, 17.222641336146445, 17.224815838535335, 17.22624841196054, 17.228530888803824, 17.22863332984317, 17.230090321788975, 17.231079498182737, 17.231085909521067, 17.232686351292116, 17.235664049565578, 17.23579971637582, 17.24091003872828, 17.241019969327628, 17.241313611626715, 17.241391762783465, 17.244205052764926, 17.245641959900443, 17.24781945021088, 17.249994487789934, 17.255199473677624, 17.256893395947092, 17.25753779277222, 17.25841473986646, 17.259753559543654, 17.260185076482824, 17.26169013390317, 17.26298956376693, 17.266143261648082, 17.268677047814087, 17.276111226147734, 17.27895637145206, 17.280967910840246, 17.281944234660195, 17.282525511308688, 17.282628663568847, 17.287566159044836, 17.289266035990128, 17.289300000942198, 17.289628668150335, 17.29049233146469, 17.291589313274862, 17.292535069924558, 17.297992549158685, 17.300595006179776, 17.305571798081196, 17.306319599338803, 17.309521120261792, 17.309961998945788, 17.31423029859579, 17.318948902294096, 17.323310302003286, 17.323863445323873, 17.32400449812782, 17.324942757344978, 17.325297481059383, 17.329888110743003, 17.33157404202408, 17.335018609683132, 17.33834376069485, 17.341938079063063, 17.342696392609465, 17.34447886491666, 17.344481524070286, 17.347607748714964, 17.348265614446234, 17.35071272791842, 17.354306711300065, 17.35714104703159, 17.358317204909795, 17.363951335773315, 17.3651935015882, 17.365760440172444, 17.366025158072258, 17.366243351417396, 17.36631469557114, 17.367006792592306, 17.367518211707576, 17.371051742516183, 17.371293179013172, 17.371401026506366, 17.373505370547505, 17.3745284421487, 17.377063438569998, 17.377326208735532, 17.378771031329112, 17.379521340348294, 17.380685356902724, 17.38259138687926, 17.38788759093842, 17.39132648879106, 17.393515611317735, 17.396173623260648, 17.398470372795288, 17.399152111072894, 17.400762619422178, 17.403213388150075, 17.403393722099096, 17.40635536908193, 17.40685954893749, 17.408025737352848, 17.41119951784381, 17.411327356863623, 17.413160437352786, 17.413997107915193, 17.414805601870263, 17.416214455678606, 17.418775804841324, 17.41880403053228, 17.419738185684537, 17.42033815843073, 17.420730487717883, 17.42227675500093, 17.423901051523032, 17.42436006480414, 17.424955657925018, 17.42530320935011, 17.426003713726654, 17.42637732883972, 17.427323298162143, 17.431501749654885, 17.43458188627862, 17.436317702685766, 17.438561887879253, 17.43856746110663, 17.439253048865403, 17.440874253940315, 17.441604640411132, 17.44316877761714, 17.443419748029243, 17.446665183532996, 17.447295342075112, 17.449950272845278, 17.450969486449495, 17.45369722466411, 17.454630282403834, 17.45507716103577, 17.45917401466631, 17.459314416465347, 17.45991998256713, 17.460328675524664, 17.46200461930269, 17.465869065862883, 17.466195155421524, 17.466659886085225, 17.470205814750663, 17.478028280129084, 17.480105995507337, 17.48048693898549, 17.483982298061495, 17.484213954292855, 17.488194152969644, 17.489806305609598, 17.490128340446834, 17.491341708004605, 17.493919469820767, 17.494070365057336, 17.49437009731649, 17.494872031973166, 17.49901676372391, 17.508891869737134, 17.509700788506628, 17.510744604392123, 17.511592679330747, 17.511999020185797, 17.51317675633767, 17.51348083502627, 17.516021658468148, 17.517373931435067, 17.520616446332564, 17.52200902144868, 17.522472958230544, 17.52619991475779, 17.526939625230625, 17.527772079894753, 17.52793422581262, 17.530384786710847, 17.532278711350067, 17.532690629456972, 17.536709567183372, 17.53854796902832, 17.542166046254138, 17.542286015558958, 17.543159373897772, 17.543316142776693, 17.544293633944953, 17.544645143637055, 17.54654056680699, 17.54656927624645, 17.546982716318603, 17.54785262258033, 17.55000125290524, 17.55319335338521, 17.555894808906167, 17.556782863195476, 17.55687813723135, 17.560713926968823, 17.56163929594668, 17.561772997807417, 17.562904785474267, 17.56915592274662, 17.569408032636897, 17.575135906431534, 17.579068431626744, 17.582807313949807, 17.58350930647172, 17.585114484404293, 17.58555898523271, 17.5861258450482, 17.586210047460064, 17.59107377834134, 17.591690378496974, 17.592586841819408, 17.593737509022848, 17.59628884832002, 17.598144534641804, 17.599196519192375, 17.60276554375871, 17.602978773075975, 17.605524156899953, 17.60856053817907, 17.609058356881786, 17.609703268291497, 17.61076787268884, 17.6116946411833, 17.614504542171005, 17.61673619390605, 17.61680907584006, 17.618484396223423, 17.618909663128033, 17.622928368573696, 17.625119770846254, 17.625123130411062, 17.62586053377631, 17.626106794440968, 17.627066483442974, 17.627923818091197, 17.63101283076973, 17.633572546725567, 17.63914080090923, 17.64049875057305, 17.643633917327517, 17.644665513967688, 17.647699050825807, 17.647806789983825, 17.652002782891472, 17.652748625016237, 17.654712464232368, 17.658720407583562, 17.659134777271852, 17.663358674183804, 17.663881240966347, 17.665392795375453, 17.665483005931286, 17.66791883464231, 17.668545687075607, 17.669903264464374, 17.674250392254073, 17.67480793707054, 17.674894886742194, 17.675337345396542, 17.67880632237341, 17.678874582118585, 17.67922863894724, 17.679876444030576, 17.681068298620765, 17.681249749463273, 17.68229561652403, 17.685920255635622, 17.686313884390955, 17.686703920456964, 17.68854154557627, 17.689394942348912, 17.689472334508416, 17.689941031325546, 17.69062044008306, 17.69224284567836, 17.692823937613383, 17.6943196458612, 17.69528936070328, 17.69711624144849, 17.699083777740476, 17.699771453926562, 17.70118033572352, 17.701678015750012, 17.704578396503663, 17.70814278742575, 17.708390902303904, 17.70898013558358, 17.70942883292068, 17.710044762727723, 17.71138482300119, 17.71513292472126, 17.716692950828048, 17.71681834902782, 17.717115849397757, 17.71765833323592, 17.718991967160203, 17.720128888498564, 17.720694432567658, 17.72074924574244, 17.721330789784, 17.72287037334612, 17.724377459886277, 17.724461839723812, 17.724781589780143, 17.728252727962033, 17.729337870998926, 17.730355578978166, 17.731347711402513, 17.731638771086153, 17.7333860685429, 17.73541759358546, 17.735426779661765, 17.740610359286727, 17.74520862425182, 17.74628033615319, 17.746843851974887, 17.74766471156127, 17.748490437006943, 17.75095885077261, 17.755053164592006, 17.76055949567592, 17.76073719383944, 17.761229562082804, 17.762537547952356, 17.765238162742413, 17.76606270060537, 17.766573790043715, 17.76788307817966, 17.76956942029505, 17.770091712554425, 17.771616440388435, 17.772002018952243, 17.773015820846126, 17.77554580334212, 17.77578924915077, 17.777904190546444, 17.778129599085354, 17.778145249302057, 17.778574700399076, 17.779411392782986, 17.780096660956758, 17.780420558807222, 17.781289424648023, 17.783911467243296, 17.787784129436574, 17.791165697332406, 17.79312387846624, 17.79427900617062, 17.79593844622721, 17.796763641970887, 17.800997824483076, 17.803386716974607, 17.80398877384222, 17.804223158651265, 17.805250727741853, 17.80867856503579, 17.809658805860032, 17.810010632385072, 17.810133468606338, 17.81125089472929, 17.81126944929069, 17.812238620694025, 17.81821706675239, 17.81824403401866, 17.818693224445916, 17.819856183558002, 17.82038296651512, 17.820711001524458, 17.822460483848026, 17.82271381820694, 17.823299893605707, 17.824296034300012, 17.825356361132673, 17.82885067739317, 17.82919794237678, 17.83141387705332, 17.83194975521567, 17.832959784793214, 17.833766401910953, 17.836095092529444, 17.837514579832856, 17.837542421009424, 17.838593345885414, 17.83955996947821, 17.84068561877924, 17.842244791780463, 17.844090861603284, 17.84409822654775, 17.84815384362713, 17.854690209509176, 17.85577186819915, 17.856117967349917, 17.856170403628372, 17.858425729462514, 17.858577904441514, 17.859584121309492, 17.85963580740858, 17.860439690240632, 17.862077987575006, 17.86323294725812, 17.864158327438734, 17.866547203720703, 17.868108560802654, 17.868756501359645, 17.869509856242495, 17.87274887310552, 17.87330818609061, 17.877773424639223, 17.87779579131933, 17.87905352471244, 17.87968607783825, 17.880071360578825, 17.880785402096123, 17.88178561659499, 17.885504117247113, 17.886579342112952, 17.886740788125287, 17.890597414051538, 17.89369174765634, 17.8941175864641, 17.894366248005362, 17.90371074655826, 17.907355697566018, 17.90785008681247, 17.908761299393625, 17.908764113254747, 17.908795197158874, 17.91437889809647, 17.916133479442458, 17.92083690944726, 17.921977094250128, 17.922255082882675, 17.924276910051432, 17.92521869203525, 17.92578787475137, 17.926032355338005, 17.926403936590454, 17.926709025392423, 17.926831955000026, 17.9275851244777, 17.928911674763825, 17.931880008595662, 17.93237541287401, 17.933212343440243, 17.933640214402367, 17.93780097530096, 17.938355598955667, 17.93940558155659, 17.941133233357412, 17.94143776431547, 17.942011221022607, 17.945993173685395, 17.94708678407666, 17.947575383638682, 17.948104297584173, 17.950069365118615, 17.95020795892983, 17.95220489200257, 17.95358840001252, 17.959068248808613, 17.962460107720528, 17.96315399167793, 17.96548456012127, 17.96578623197947, 17.96630513649213, 17.969470037003955, 17.97024888208317, 17.97070896955992, 17.970727902394017, 17.971902381686014, 17.973553167880237, 17.97395482738944, 17.97795916860153, 17.978182408869507, 17.97825385713508, 17.979676721647103, 17.979874565241943, 17.981108037767164, 17.981763853699007, 17.981805442244244, 17.981978630632913, 17.98285417345715, 17.983396362919148, 17.983718620967952, 17.985245878282154, 17.985514438233515, 17.986243556490017, 17.987183064079126, 17.98778274196638, 17.98828096017165, 17.98963694315031, 17.990026136436185, 17.99134457472576, 17.99219683532624, 17.992873963963532, 17.993869159086923, 17.99574488566128, 17.998622334962654, 18.000198652721558, 18.004253109701068, 18.00476800410304, 18.005069564524383, 18.007752187318626, 18.009639755232655, 18.010015808824903, 18.011788708709375, 18.015374171356335, 18.015821741675026, 18.016159316865924, 18.01670231676902, 18.017747368568756, 18.018892530455982, 18.01900938049974, 18.019305497353066, 18.019471448173157, 18.021923845316024, 18.023185165666092, 18.024020043411696, 18.025330857807866, 18.02691743816252, 18.027684252045432, 18.028406243191455, 18.028898346308118, 18.02981300291343, 18.030123379261372, 18.030637734042347, 18.03105238537856, 18.031103304948957, 18.031497238489735, 18.03335449000394, 18.033795638302916, 18.034758803458526, 18.03669051690604, 18.037816550860683, 18.038806136307876, 18.04047586115034, 18.04870584444878, 18.048882983215947, 18.04924900821638, 18.052473864507643, 18.05308301126443, 18.05372759439148, 18.05530498282253, 18.058423822861787, 18.059540909127705, 18.06037909887312, 18.062026050189296, 18.06371445699429, 18.064236733149613, 18.064554433396484, 18.066002199351782, 18.066832701444458, 18.06922629739804, 18.070211028141536, 18.072031464298355, 18.07454142299628, 18.07548551560548, 18.076792733822685, 18.07707524866524, 18.07878043740208, 18.080134882285748, 18.0850361526656, 18.08596528753393, 18.08910770531621, 18.08976407116601, 18.090491495093396, 18.0932340974446, 18.094473896032625, 18.094929551458605, 18.095138717558648, 18.09572036113746, 18.09767763119647, 18.09795310761063, 18.09836574271385, 18.102209692721885, 18.10265676397983, 18.102822873815533, 18.10435119413804, 18.10482267912071, 18.10578590439664, 18.105844802749992, 18.106973365522457, 18.107036097565906, 18.111394506178726, 18.11640311758812, 18.117721367385336, 18.11814962720395, 18.119685081715296, 18.120460952979034, 18.12226730734987, 18.12470836555938, 18.126566606826117, 18.126753740735385, 18.127235123308065, 18.127587575390336, 18.129453932415416, 18.13081930077013, 18.131359465487055, 18.131967863860886, 18.132435657225905, 18.133955293882593, 18.13425338699495, 18.13609043321581, 18.13671926933533, 18.13722117462996, 18.13735358101089, 18.13848409966149, 18.138572507692523, 18.146002011557275, 18.146223312759318, 18.14916950880705, 18.150144990948455, 18.151410552928446, 18.15243678544036, 18.153918019756468, 18.15510085681372, 18.157457230234247, 18.159800999307343, 18.163216197706692, 18.163799486032723, 18.16438412031269, 18.16621121709062, 18.16634137969219, 18.167412284297903, 18.17281673886954, 18.17316256555121, 18.176271444435915, 18.180127099590205, 18.18103194263596, 18.1822425626496, 18.18343281144001, 18.188144560399966, 18.188392234184395, 18.188915620316912, 18.189321762713767, 18.190601485178842, 18.190929161577902, 18.191477406429627, 18.191781910778346, 18.19319463856531, 18.19426936423873, 18.194630838873174, 18.195394147954346, 18.196341986968818, 18.197153419452164, 18.20016303488815, 18.201941427485064, 18.203646226071807, 18.20409589758322, 18.20512290775428, 18.205827335057965, 18.207850528044773, 18.210947835355174, 18.212121802517082, 18.21461051998254, 18.217355635695334, 18.217867246035482, 18.218154936318243, 18.218167705769154, 18.218187515398384, 18.220468846924987, 18.221500003857876, 18.22179937916026, 18.22187515148712, 18.223619286354545, 18.224782805566818, 18.226192737870157, 18.226966580695027, 18.229867273874437, 18.23111682990565, 18.235482201648004, 18.236616519355344, 18.23680012014257, 18.237156703084878, 18.2387789262024, 18.24162371150812, 18.24317813204737, 18.24357251320233, 18.243601908545998, 18.2440927876263, 18.244950088089098, 18.246227942133338, 18.24749279487504, 18.247645061752763, 18.24873265626848, 18.249706922380447, 18.2503735668343, 18.250937349811288, 18.253498070375166, 18.254876773359562, 18.25694739233787, 18.258741288230325, 18.258928098124933, 18.259032507843045, 18.261713947151172, 18.262491670416047, 18.262527824718582, 18.264627967887566, 18.264785058164414, 18.264846244929096, 18.264896721427505, 18.26530821644682, 18.26619570236461, 18.267831431415907, 18.269047811997176, 18.27072081908928, 18.272464835909012, 18.272844752280356, 18.273277761822396, 18.27369906886306, 18.27400979200184, 18.274216406684396, 18.27425247391767, 18.27590928642463, 18.276024018325103, 18.277071526827847, 18.277134794059485, 18.277452879822484, 18.27762436582421, 18.27969001167621, 18.27969493847467, 18.281350427296516, 18.28356442409404, 18.2861625691717, 18.287638394358698, 18.28841625037747, 18.28845839036012, 18.289959006820872, 18.290509983816712, 18.29215839674921, 18.293210719849377, 18.295380176955092, 18.29834558770692, 18.299233747011584, 18.300184325972694, 18.301781864851577, 18.302881569142286, 18.302902340361264, 18.302982768483933, 18.305053504530868, 18.305810528111987, 18.306816096313298, 18.3080202567508, 18.310294322436253, 18.312572182476377, 18.312805503888086, 18.313298499598027, 18.313728907465105, 18.314062077844124, 18.31647700240792, 18.316526580001494, 18.31787193183542, 18.319760699421746, 18.32137611156778, 18.321886584095708, 18.32456185337784, 18.3251734211359, 18.326268204326794, 18.327612882455004, 18.32766885343333, 18.328794331038356, 18.330655811043084, 18.331753219766654, 18.332047226304848, 18.33206652437015, 18.33211168410018, 18.33399833599003, 18.334159829937988, 18.335110499663934, 18.336590167140493, 18.337993807201627, 18.3380147877542, 18.33903263906092, 18.34200366572142, 18.34247773041242, 18.34555939668185, 18.34769675879791, 18.349194637633165, 18.34984955538016, 18.35479516720217, 18.354974715660184, 18.357213733072847, 18.35952754393804, 18.365012607013313, 18.365458022129804, 18.36643680156839, 18.367674229883704, 18.36811250314457, 18.368349604337205, 18.36880595960502, 18.372143826123082, 18.37238520750838, 18.373400017412344, 18.376708662951295, 18.377769702558, 18.382495463808723, 18.385065445099237, 18.385148451023724, 18.385767582580012, 18.386539300444504, 18.39004829431905, 18.390389914123155, 18.391014218865358, 18.391319374385702, 18.39135620986675, 18.392836870962896, 18.394789628417513, 18.39540628324665, 18.397035093465163, 18.397159331462266, 18.399431133354817, 18.40044880834471, 18.40144975764907, 18.404843273511933, 18.40580998746107, 18.406998456759965, 18.40710505285831, 18.407480545045686, 18.40947090509206, 18.409966441856703, 18.410695651118132, 18.410789303480048, 18.411604843925364, 18.412027459342575, 18.412179825370742, 18.412793057205448, 18.41302979158885, 18.413471675072625, 18.413789328779693, 18.413982121683468, 18.41509558613791, 18.418105268031354, 18.41913420520291, 18.419294943482583, 18.42163876973675, 18.422156203554074, 18.42339382618678, 18.423823916007, 18.423946908846613, 18.427048127093517, 18.427351135821038, 18.428632742037383, 18.42893342195012, 18.42962732870607, 18.429683247262517, 18.43030758339907, 18.43155055079913, 18.432057785297886, 18.432932321999914, 18.433162266584887, 18.435503740280645, 18.435605252780217, 18.43783434283867, 18.43807155228446, 18.439714800685906, 18.439816845113263, 18.441299380492183, 18.44160024176191, 18.44222505237282, 18.442561708652956, 18.44267892634042, 18.447474483739, 18.44748088256108, 18.44859614372138, 18.449175447049655, 18.45207539105832, 18.45419165211004, 18.45446431174554, 18.454508175798466, 18.45479320867453, 18.456999169417596, 18.458147126013635, 18.458493860569828, 18.459630444312808, 18.459930003568672, 18.460466436124527, 18.461163880678697, 18.46206709492413, 18.463978407895567, 18.465173834382167, 18.465391349618443, 18.468443234267344, 18.468641902092987, 18.47002966353157, 18.471137702198497, 18.471170605301282, 18.47125268687404, 18.472866418732913, 18.474415208152365, 18.47445896273755, 18.474959783898807, 18.476908635167987, 18.477031861026852, 18.47788844867009, 18.48019591252145, 18.480921216458874, 18.48173359434125, 18.485999628348495, 18.486929072343774, 18.487528683407966, 18.488124120018874, 18.49001492378458, 18.490401955543984, 18.491015188271806, 18.491072946844536, 18.492921995438884, 18.498041198961225, 18.499235413538408, 18.50033866656605, 18.50100806721452, 18.501509323200757, 18.501940150664616, 18.5027480382162, 18.502789555149, 18.502883507722675, 18.506997272246934, 18.50735238547776, 18.507970787216138, 18.510153002049613, 18.51201430684044, 18.514909879525593, 18.517091919803818, 18.51814866644004, 18.51897691316621, 18.52058377819977, 18.52253475515064, 18.524975359331954, 18.526028566757454, 18.52612046482681, 18.526281805166764, 18.52798129306307, 18.529304417083935, 18.52970441163375, 18.53031737721406, 18.53050618233153, 18.530943677130438, 18.53260380793202, 18.53272121977821, 18.53370818746616, 18.533990827292374, 18.539083079530002, 18.539365791306338, 18.541727902753188, 18.54214674886176, 18.543121924186515, 18.547244067535765, 18.549066756469763, 18.549571094923678, 18.549765054371267, 18.550810720372187, 18.551987185807654, 18.55361390377484, 18.55518224696675, 18.556642959022113, 18.558009893422803, 18.559847823336913, 18.559888858101914, 18.566851394801258, 18.566884839575636, 18.567508079771102, 18.56773511269339, 18.569789692400533, 18.571152050149678, 18.572583720274757, 18.574390477322176, 18.574854407752767, 18.576310000990482, 18.577140685823174, 18.577564771086998, 18.577934526203798, 18.578333816533608, 18.580019099409913, 18.58049791281566, 18.582225858142994, 18.58255492794114, 18.583969989401545, 18.584005928486807, 18.584885916514786, 18.585495930826326, 18.586634324794574, 18.587697786501366, 18.587904995641246, 18.589273073858024, 18.589799942587113, 18.590671514060894, 18.591559919722812, 18.592154928427536, 18.593942246963458, 18.594382409313273, 18.5947178584759, 18.59882849949759, 18.598920984799193, 18.599037627259015, 18.602023778516276, 18.60264280955073, 18.60546411845945, 18.60618141229817, 18.60697330279538, 18.611480286528113, 18.611519221055648, 18.615109288995324, 18.61556898818435, 18.61949916897175, 18.622155752343303, 18.62258012526226, 18.623107176662238, 18.623239771239724, 18.62329765398994, 18.62329815336297, 18.625133018762583, 18.62524882162019, 18.627416662409132, 18.62837205729956, 18.628716978356515, 18.62872535304257, 18.630975576126815, 18.631186005400266, 18.63249305819406, 18.634229327647084, 18.634947971867817, 18.636333082373863, 18.63667716226633, 18.63796626381704, 18.638189307357028, 18.638224005490375, 18.639280726602117, 18.63930084222436, 18.642047753867264, 18.642649009502268, 18.646144562964455, 18.650686196223358, 18.660212229419592, 18.66024554441349, 18.660339381058428, 18.66057884656777, 18.660617086242404, 18.661134671810334, 18.662570767075582, 18.663117981157036, 18.66586773721107, 18.668024187260322, 18.6681023552551, 18.668625359817526, 18.66956123881623, 18.669988168790454, 18.67006025919744, 18.675497196092405, 18.677930142195255, 18.68006665507506, 18.68554925590642, 18.68828251457134, 18.688692377988147, 18.689173370146477, 18.691192754515864, 18.6914304969687, 18.694214524298026, 18.696420587086173, 18.698920787886124, 18.69965580690265, 18.702585545728798, 18.704940801051446, 18.705574214677206, 18.70647604839846, 18.708288045799748, 18.709512212103252, 18.71074235380778, 18.711133194634602, 18.711514408252704, 18.712252083490622, 18.71563409439055, 18.717072924419977, 18.718926992128296, 18.71896865555972, 18.720107073491903, 18.72105693977391, 18.722727672888684, 18.72284718703009, 18.723004386816164, 18.726426439336596, 18.72923614891539, 18.729628714788397, 18.730099328342792, 18.730833858949183, 18.73253933914875, 18.73454743204612, 18.738648118536275, 18.73971845141947, 18.739902969759935, 18.74162921484289, 18.742904776524632, 18.744401579132628, 18.746845008426405, 18.747183350687113, 18.748853659621197, 18.749489048499694, 18.750461378582486, 18.752002393768905, 18.752921173077205, 18.754386454331332, 18.754608999742302, 18.755370494996033, 18.75558147050438, 18.756689979288865, 18.75827229339151, 18.759279914958494, 18.760117866844347, 18.76061171355012, 18.760925619534596, 18.765259390613807, 18.765317015399216, 18.766368329361832, 18.767754552252498, 18.76793526577147, 18.770269282903662, 18.77028869818291, 18.771432039353243, 18.777036356273623, 18.77764796741944, 18.778612531722615, 18.778950526527396, 18.785580867408182, 18.788019372219303, 18.788467729739825, 18.78848840783745, 18.7907418826222, 18.791826361268367, 18.793056973525307, 18.794089258688324, 18.79548936683922, 18.795558539088987, 18.796143641850012, 18.797901653995723, 18.80047128524496, 18.80147734940484, 18.801520182275354, 18.808339313123, 18.80882347063406, 18.810412435932907, 18.810643883546312, 18.81080668729465, 18.812898683862517, 18.813009538056058, 18.813158905181858, 18.813260699003127, 18.81377665262894, 18.8137970547726, 18.813859252393826, 18.815292386588823, 18.81667528353629, 18.81730534530154, 18.818852355545566, 18.819807600608932, 18.819855573827404, 18.820649265267328, 18.822974049224175, 18.825971561102445, 18.834796260579637, 18.835067287580298, 18.83765304809011, 18.840342952705953, 18.84298453778245, 18.845077848670357, 18.84543590913355, 18.848548554696784, 18.85126101973529, 18.85475759288649, 18.858444262330085, 18.85905005273495, 18.866171354541216, 18.866697947519754, 18.866885405192576, 18.86856631585811, 18.869093044226908, 18.871032342158202, 18.874233246351082, 18.87477054289853, 18.874867465422092, 18.876927476833593, 18.879400083774076, 18.88035491738319, 18.881638765612834, 18.888376745110527, 18.889282478200904, 18.890221234279736, 18.891826642753948, 18.89827055638942, 18.899756342244096, 18.908034576771072, 18.909895691320763, 18.91018156334397, 18.910222659059727, 18.910520156070447, 18.911699845873173, 18.912683120963635, 18.914527293111174, 18.917034819706664, 18.917037587505664, 18.919495043258472, 18.91983655666352, 18.9199739277027, 18.92153991877342, 18.923183659607695, 18.92630113593058, 18.928183547348333, 18.93250020668821, 18.933045765266918, 18.933998458135193, 18.93606831309981, 18.93655837479778, 18.938777938954473, 18.939300574355073, 18.94084624991299, 18.94112167198278, 18.941210461556913, 18.94141620900367, 18.941822666586397, 18.94637894450539, 18.946618344552284, 18.948539568515212, 18.94949002018624, 18.955558218427697, 18.95677479772037, 18.95717344029512, 18.958160625266522, 18.959558756959268, 18.960104727676445, 18.96047906854526, 18.96111698948271, 18.96208495559894, 18.9621207136799, 18.96520748132116, 18.966532081763017, 18.9685265909794, 18.96880752194039, 18.969680866559536, 18.97061111294392, 18.971230823581067, 18.97215933678811, 18.97491981131708, 18.97921374033438, 18.979568959481323, 18.98017504934767, 18.980754379090882, 18.983391425775196, 18.984615124053313, 18.98590893914814, 18.98618445403043, 18.986690284534966, 18.989553491619812, 18.99091347102479, 18.991578282748453, 18.992036483741103, 18.992846225271002, 18.99370191710888, 18.997071860437075, 18.99871877468007, 18.99884884377588, 19.001471451614307, 19.004138126195812, 19.005098529758005, 19.006147326645717, 19.007861431958553, 19.00970304591005, 19.011463776009556, 19.01291974376978, 19.0141458242853, 19.0158791957828, 19.01848048636176, 19.019069920542783, 19.021295515366216, 19.02158803683465, 19.02174550868076, 19.022802921877357, 19.0238921565629, 19.02448851275824, 19.026792887176867, 19.031219529913436, 19.0312837039589, 19.031474664250204, 19.033077757762204, 19.035296440030866, 19.03603778138013, 19.040033800670983, 19.043196934130947, 19.044428083787444, 19.04558575544992, 19.04788237159866, 19.04861088158082, 19.05553825394493, 19.05636030118581, 19.056663439016805, 19.058134202780188, 19.06018401762728, 19.064050211092685, 19.065946293955427, 19.066950755528552, 19.067435787011107, 19.068076488796265, 19.068821344915847, 19.06970687003546, 19.070052042671694, 19.070145201613393, 19.0708859539065, 19.071433368026966, 19.07338005386621, 19.074583086451504, 19.07464000292694, 19.075131877472913, 19.075314706314366, 19.078503252003035, 19.080253078838005, 19.08131191192636, 19.0813893201737, 19.082126245089665, 19.08419344524244, 19.086677115898013, 19.087608771121413, 19.08927166854614, 19.08971664281131, 19.091604634141248, 19.094664588958356, 19.095056846190467, 19.096156671753032, 19.098290763140156, 19.09865908498626, 19.099435646625224, 19.102594074128966, 19.102880891118467, 19.105285100457124, 19.105353713602018, 19.10564685837922, 19.107316229218412, 19.108444606502403, 19.10933616273003, 19.11015643995583, 19.11204167337248, 19.112230856426805, 19.116550980114127, 19.117085370870054, 19.12142466006775, 19.12214773901428, 19.123135739232794, 19.12532699195333, 19.127006850274014, 19.14136292224616, 19.14642563484231, 19.14878064038115, 19.15005476573367, 19.150668658281315, 19.15423974544777, 19.154288047191084, 19.154793912083026, 19.1551806466206, 19.158303572067915, 19.158404420634923, 19.15975163018514, 19.16375816537736, 19.165539453780085, 19.168597780418132, 19.174230686895594, 19.17599736207134, 19.176714168997627, 19.1792181759822, 19.180008737537293, 19.181000258638072, 19.18113468674835, 19.18733622814511, 19.187592220798237, 19.188112908435475, 19.192446255430106, 19.194963280066005, 19.195416779522425, 19.196873394251924, 19.206377873985563, 19.208960933758107, 19.21008187094784, 19.210330896960148, 19.211417484353653, 19.212981682917928, 19.216430350200902, 19.217445280592024, 19.22121930092521, 19.221839005264638, 19.222899748628876, 19.22615757489926, 19.22776265333489, 19.230710882734066, 19.231052057246018, 19.232792761442706, 19.23370521129448, 19.235155828687382, 19.23579088819108, 19.235867588318932, 19.236314538501055, 19.237868750752007, 19.240879368494504, 19.24118701901788, 19.241945753146183, 19.24275697345758, 19.246005566676978, 19.24765060192275, 19.247664536267898, 19.248369218936254, 19.252993341916834, 19.257123068812618, 19.25714008505706, 19.257618681907033, 19.2587761570284, 19.268570354988107, 19.270037027559983, 19.273882266521078, 19.274128060269646, 19.274995151845232, 19.275515554566006, 19.277285033739815, 19.27765239795837, 19.279345447133608, 19.28049878312735, 19.280641001164703, 19.283347134979532, 19.28375747601976, 19.28396529519246, 19.283988120756995, 19.28488897731372, 19.285416637626838, 19.294332739262043, 19.295769845015577, 19.29610809849629, 19.296318485015874, 19.29703740912631, 19.29722653263213, 19.304135213098824, 19.304479020235295, 19.304600694046798, 19.304885747900677, 19.306805330021803, 19.308757691735405, 19.308903232064942, 19.311600155421598, 19.31323670100997, 19.314410451017196, 19.31548286862224, 19.315904066522684, 19.31592936775601, 19.31827253541376, 19.319048837594345, 19.31933044989986, 19.319359369652478, 19.321292233854344, 19.324927909824588, 19.329205252518854, 19.329811287975346, 19.330760909857638, 19.33293682963465, 19.333993741905463, 19.334564606977004, 19.335016030001242, 19.33553108083251, 19.336481745410076, 19.339372164508223, 19.34296718532912, 19.344650812319784, 19.345407733401885, 19.345658624777492, 19.346158111533185, 19.34670234207835, 19.347778887849095, 19.34821892043067, 19.34857863100545, 19.349061988554006, 19.34907774895651, 19.34942557680659, 19.350731598599143, 19.352582302312328, 19.35383485947626, 19.354913327171662, 19.35566725048112, 19.356782211607637, 19.357522800892987, 19.359261754981606, 19.365428658012142, 19.36853168642251, 19.372399880674877, 19.37829755045292, 19.380427800282384, 19.382130269770016, 19.38249772244274, 19.38334106166033, 19.38737835856199, 19.38949376982831, 19.391652989838576, 19.393089831812723, 19.39569901858146, 19.395999629704818, 19.397033315790818, 19.397569964446262, 19.397790361434435, 19.398914122582752, 19.406423799956837, 19.41129820327027, 19.413332210150124, 19.41464054673063, 19.418265635133857, 19.41862266347588, 19.422995387551552, 19.427596594547232, 19.432446303347184, 19.43518848186546, 19.43896170416962, 19.44280573282297, 19.44290581693133, 19.44313203423427, 19.44319998767055, 19.444790822720307, 19.445283803261923, 19.447014042485407, 19.44735346878017, 19.450934070912027, 19.450957686556798, 19.45394597562698, 19.453967045904776, 19.457177453519666, 19.459157411626386, 19.460189242731616, 19.477047748890364, 19.47839889728975, 19.48116746136524, 19.482400814164695, 19.48329853063297, 19.483776551961284, 19.48570150633855, 19.488477909606917, 19.491823233664142, 19.49213852957356, 19.49451827404073, 19.49639829327335, 19.49760644879437, 19.499554434221842, 19.501029297520176, 19.50228556880778, 19.50429468724679, 19.505283763388253, 19.505323995845764, 19.506397841946203, 19.506890207888542, 19.51194472308782, 19.514644481116303, 19.51516159269237, 19.517971724318432, 19.518759438519965, 19.51922690184619, 19.520072087070158, 19.52113253228388, 19.521649095405387, 19.526733264927163, 19.528665742442907, 19.53030569622435, 19.531622783087364, 19.531696169360167, 19.533416852093964, 19.53364531805755, 19.534086095335496, 19.5346587425034, 19.53523105714223, 19.536538662653175, 19.53755579486243, 19.53911137739954, 19.54076576631918, 19.540838373855394, 19.54288535172708, 19.545511573798166, 19.545938960719145, 19.546077182761735, 19.54850136217209, 19.552447560977306, 19.5545877249468, 19.559636487944136, 19.56287953479734, 19.56683348270972, 19.570592324776626, 19.57450314477932, 19.57868371968882, 19.58086053980624, 19.582278310911214, 19.583476883775276, 19.586427078990134, 19.592395724012803, 19.594585033571338, 19.59573157613312, 19.598201994416446, 19.599330238228582, 19.60495018865967, 19.608069044703903, 19.608342664039384, 19.61048732918617, 19.616388935107544, 19.6176651851723, 19.618718908841842, 19.624041504390025, 19.625913886714844, 19.626291525925588, 19.635732364128685, 19.636209854337473, 19.637217896684042, 19.637656376655414, 19.639053525970475, 19.641373397542345, 19.647921707055772, 19.649476343096758, 19.6506980847818, 19.65181531851426, 19.651977339815726, 19.65586730842118, 19.656060390532637, 19.65812057966872, 19.659626476813898, 19.662037489570416, 19.662946020667164, 19.66546517846732, 19.66699706720883, 19.674546816524163, 19.680365202320232, 19.684327524330726, 19.691210800798938, 19.694199370124075, 19.696701313575787, 19.7007114395518, 19.703510822529964, 19.70509232808359, 19.70647773269077, 19.713995126739952, 19.715001606324392, 19.71534102870578, 19.717408829069203, 19.718083204767648, 19.72130623885022, 19.726818710553815, 19.72974111272915, 19.731766855387356, 19.73720349994619, 19.738568440263577, 19.74776695294475, 19.750726838639782, 19.752195400192626, 19.756688642293362, 19.75847567295458, 19.767912942288163, 19.76957164485014, 19.771472120737553, 19.77226140160763, 19.794986329553954, 19.801389131339757, 19.80216879842248, 19.802943958366363, 19.807501581731294, 19.80761412842491, 19.81094887004072, 19.813258233197068, 19.816746533724803, 19.819121936283278, 19.82786804844713, 19.831808403434206, 19.834992419837253, 19.835220462954233, 19.840982748339066, 19.85365412340867, 19.856869248736274, 19.857196982826846, 19.866317382945482, 19.868070568117673, 19.87235942632946, 19.87391145187145, 19.87990345112133, 19.88309730603453, 19.885975323394067, 19.890960676074783, 19.89301410542884, 19.896469751141815, 19.904007152755327, 19.910025304202346, 19.916477037956053, 19.918505270618823, 19.924399213310114, 19.931294647386515, 19.938442941176426, 19.939330924270557, 19.943810113414443, 19.948857297033328, 19.950746869555832, 19.953002929920274, 19.95670225338929, 19.957604051958086, 19.958739562156474, 19.959125388999848, 19.96158906971845, 19.967514358382218, 19.967777462706593, 19.971139169887508, 19.973289072170992, 19.979649485965798, 19.98937504560071, 19.989411967650803, 19.99091434367797, 19.998132089031472, 19.99853912957451, 20.001424772974765, 20.004535572101307, 20.008517305875543, 20.01713166951627, 20.025703256074294, 20.042780380069225, 20.045779024636953, 20.047924500501402, 20.058515973936842, 20.06078867181118, 20.065069976980297, 20.067183305643134, 20.068794845129084, 20.06929314682175, 20.076780123797292, 20.077634472996934, 20.083478188434007, 20.088536685290194, 20.08854302159926, 20.10272823025936, 20.112039524612676, 20.121722508575008, 20.126652592586893, 20.12872570606079, 20.132682129209837, 20.13308808359566, 20.13316920114608, 20.13337141390145, 20.14181036815555, 20.142606763967084, 20.152468831153385, 20.15464462465203, 20.16466037789838, 20.16721139561978, 20.169243325822823, 20.169515968792332, 20.171790536037992, 20.174403292765618, 20.175295827679292, 20.176917981865607, 20.17782749465966, 20.18422294864486, 20.184307913751883, 20.192574298964118, 20.193294978537438, 20.19361343309224, 20.195094725761553, 20.198949059497277, 20.204103015230316, 20.210592482757395, 20.212182579822844, 20.21560855137476, 20.21968351676352, 20.220373601384544, 20.222360503706817, 20.224680882474217, 20.226647143707083, 20.227033320126566, 20.23679766667922, 20.236981427816822, 20.237280233398245, 20.241003610051557, 20.24809211952715, 20.25342815733255, 20.253772430288386, 20.25695590728235, 20.25872275698954, 20.27097864039278, 20.273521564216733, 20.277224228387887, 20.277467604602002, 20.27770836147689, 20.282518156294326, 20.29801971413113, 20.301498492845397, 20.303574534948883, 20.303840146240336, 20.319741006318612, 20.319961064853416, 20.326250762707158, 20.33265727952825, 20.336747885526762, 20.337994233944244, 20.343446054188014, 20.348988459214517, 20.35242976863001, 20.35250539601191, 20.353970166706134, 20.359282995543317, 20.360366279859733, 20.364534553438244, 20.364878227574298, 20.365649727734827, 20.388331835689733, 20.388514182819943, 20.391825121235733, 20.394611450450014, 20.394795008420328, 20.397800288581642, 20.400081392754466, 20.404337141524103, 20.405869365305822, 20.41004678246128, 20.414766742855832, 20.41619479817768, 20.423644153245686, 20.427016700691958, 20.437947571929854, 20.44874139111182, 20.45633116867341, 20.46459808263103, 20.465294723148705, 20.472493313262184, 20.472816473702583, 20.474204789053424, 20.475770115789597, 20.47620387127572, 20.477988295016225, 20.48058392466917, 20.5025314088142, 20.512353812982884, 20.513473431415402, 20.517253961763814, 20.518877760350033, 20.535882714699554, 20.53662965665803, 20.54058534275981, 20.542863648805977, 20.544473275421222, 20.54938615605829, 20.55055723273822, 20.559488973750973, 20.562471857533854, 20.56737255751727, 20.57412899992898, 20.596670352295945, 20.60383172102052, 20.60866480384105, 20.61034720063508, 20.61475009853607, 20.62156641060897, 20.628891973736025, 20.644383499019145, 20.653336008601848, 20.659444414012636, 20.662329518031612, 20.665044194097426, 20.677241033323973, 20.681144515964057, 20.697741173963234, 20.708186571096803, 20.726636262953356, 20.72758156526786, 20.738489069978414, 20.74151878994136, 20.744908098961638, 20.75532076036988, 20.759674405861617, 20.763618937648964, 20.768374487247627, 20.776705677215844, 20.78151879362754, 20.795098671884862, 20.795720880114096, 20.802499704529172, 20.8033642833785, 20.803983657701124, 20.80472857978391, 20.832710933830825, 20.834081547834714, 20.83942697188096, 20.846271721798814, 20.847051554435463, 20.8482384001236, 20.851862068938665, 20.858959646412956, 20.86631952559115, 20.8670343823571, 20.86822681431277, 20.875592044966268, 20.899807306258346, 20.90408901049449, 20.90858365812722, 20.91453061656641, 20.914750253359603, 20.916459321885764, 20.918008051444037, 20.92065138745876, 20.93101864555002, 20.939647989064277, 20.94693609161291, 20.950243336945025, 20.95576991267093, 20.972466034146876, 21.007638791407445, 21.014723353674906, 21.01614490383782, 21.02084713623183, 21.047598937266052, 21.059949252333354, 21.067921267402028, 21.06971355549517, 21.080300597982102, 21.093405625213386, 21.120193919540675, 21.123824900174434, 21.132688976569447, 21.176950814249032, 21.19772250151148, 21.19861072392296, 21.204255547456675, 21.225921450153137, 21.23377738168818, 21.237241442432083, 21.262961849808484, 21.26486360881532, 21.273858697119643, 21.277367165702756, 21.291713129534124, 21.318246297046144, 21.343618130742602, 21.347795731344384, 21.35149137917577, 21.37151526047824, 21.418984186041577, 21.42553164656594, 21.42636829948173, 21.438181261567365, 21.445739061754573, 21.458918880012614, 21.47574537670687, 21.4776439955828, 21.47856813171626, 21.49434585783364, 21.52215408487905, 21.566298399197848, 21.616216811042797, 21.63664297579545, 21.638301552415953, 21.638642505348123, 21.640821917086463, 21.678924808425208, 21.699808354969797, 21.707342847389118, 21.723040153749263, 21.734037186058465, 21.761710602937033, 21.780821590105745, 21.82531856494972, 21.82937201843553, 21.85183570403518, 21.88719665687427, 21.919846103428007, 21.929079465510675, 21.948327001000223, 21.955157599850555, 21.962219596542262, 21.984121103137714, 22.003278804791496, 22.00479021854178, 22.03350011323314, 22.06629968279038, 22.175880436073754, 22.202445909020646, 22.209494234995873, 22.229247783730564, 22.306131536828705, 22.306992516801447, 22.335877918392978, 22.37426773062632, 22.389142910743118, 22.635772466469625, 22.779959440312965, 22.792213423242302, 22.80979357864146, 22.90505290174408, 22.93762181916432, 23.372946187790813, 23.739297863379683, 23.776258760747133, 23.776316196262535, 24.01149050846849, 24.70078088309055, 26.340514747491586, 28.424626607216616, 31.738406142726348, 38.878801671745734]
