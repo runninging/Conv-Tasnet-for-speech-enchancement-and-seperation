@@ -9,6 +9,9 @@ You can find the oringnal paper [here](https://arxiv.org/abs/1809.07454). The te
 - utils.py： process the raw audio and other useful functions
 - train.yaml: all the parameters used in the model
 - test.py：separate the mixed audio and calculate SDR
+- loss/convTasnet_batch_12.file: the loss for each epoch during training stage
+- loss/test_SDR.file: the SDR on the testing set (step by 10 samples)
+- log/events.out.tfevents.1549879000.n10-056-012: the loss curves for tensorboard
 ### Training stage：
 - from the beginning: remove the line with "trainer.rerun" in Tasnet_train.py, use "trainer.run" instead
 - from a trained model: remove the line with "trainer.run" in Tasnet_train.py，use "trainer.rerun" instead, and change the "model_path" in train.yaml/temp
